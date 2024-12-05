@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Dic/05: r0.961  Fixed ImageNotFoundException. Removed CPI-Image-FindButton
 Dic/05: r0.961  MCI: Click TipoCarga, Containers, Precintos.
 Dic/05: r0.961  DOCS: Unified MCI, CPI, DTI resources in data_ecuapass
 Dic/05: r0.961  GUI: Updated for ALDIA, ALCOMEXCARGO, BYZA, and LOGITRANS
