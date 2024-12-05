@@ -1,8 +1,12 @@
-# EcuapassBot5: 
-Extracción y digitación automática de documentos al sistema ECUAPASS
+# EcuapassBot6: 
+Extracción y digitación automática de documentos al sistema ECUAPASS.
+jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
-Nov/29: r0.930: Using PythonWorker : PythonManage instead Server
+Dic/05: r0.961  MCI: Click TipoCarga, Containers, Precintos.
+Dic/05: r0.961  DOCS: Unified MCI, CPI, DTI resources in data_ecuapass
+Dic/05: r0.961  GUI: Updated for ALDIA, ALCOMEXCARGO, BYZA, and LOGITRANS
+Dic/05: r0.960  GUI: New PythonWorker and PythonManager instead Server
 Nov/06: r0.920: BOT5: Testing ALDIA cartaporte
 Jun/28: r0.911: BOT4: Bot controller: start and stop
 Jun/13: r0.910: Full Test: docs and bot. Added return messages for response handlin. Fixed printx.
