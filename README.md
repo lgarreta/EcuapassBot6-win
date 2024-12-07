@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Dic/07: r0.963  MCI:Updated Docs:coordinates
 Dic/07: r0.962  MCI:Fixed always CRU. Fixed Costos positions.
 Dic/05: r0.961  Fixed ImageNotFoundException. Removed CPI-Image-FindButton
 Dic/05: r0.961  MCI: Click TipoCarga, Containers, Precintos.
