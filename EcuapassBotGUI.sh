@@ -1,1 +1,1 @@
-java -jar "EcuapassBotGUI.jar"
+java -jar "bin/EcuapassBotGUI.jar"

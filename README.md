@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Dic/10: r0.965  Fixed values (pesos, costos): Left as written, no AmericanFormat applied.
 Dic/07: r0.964  Fixed server and GUI large paths
 Dic/07: r0.963  MCI:Updated Docs:coordinates
 Dic/07: r0.962  MCI:Fixed always CRU. Fixed Costos positions.
