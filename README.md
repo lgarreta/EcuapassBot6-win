@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Dic/14: r0.968  Adapted for SP: dynamic PDF coords. Added token. Starting web version.
 Dic/10: r0.966  Fixed Icoterm ciudad (multiSources)
 Dic/10: r0.965  Fixed values (pesos, costos): Left as written, no AmericanFormat applied.
 Dic/07: r0.964  Fixed server and GUI large paths
