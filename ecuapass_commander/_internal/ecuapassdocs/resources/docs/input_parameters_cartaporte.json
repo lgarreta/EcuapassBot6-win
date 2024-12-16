@@ -18,7 +18,8 @@
         "value": "",
         "width": 233,
         "x": 300,
-        "y": 88
+        "y": 88,
+        "aldiaField": ""
     },
     "numero": {
         "align": "left",
@@ -39,14 +40,16 @@
         "value": "",
         "width": 233,
         "x": 300,
-        "y": 88
+        "y": 88,
+        "aldiaField": "caprntcrid"
     },
     "pais": {
         "value": "",
         "class": "input_general",
         "ecudocsField": "00a_Pais",
         "codebinField": "",
-        "appField": "txt0a"
+        "appField": "txt0a",
+        "aldiaField": "docField_pais"
     },
     "txt0a": {
         "align": "left",
@@ -66,7 +69,8 @@
         "value": "",
         "width": 40,
         "x": 696,
-        "y": 88
+        "y": 88,
+        "aldiaField": ""
     },
     "txt00": {
         "align": "left",
@@ -85,7 +89,8 @@
         "value": "",
         "width": 233,
         "x": 797,
-        "y": 88
+        "y": 88,
+        "aldiaField": "caprntcrid"
     },
     "txt01": {
         "align": "left",
@@ -104,7 +109,10 @@
         "value": "",
         "width": 501,
         "x": 40,
-        "y": 162
+        "y": 162,
+        "aldiaField": {
+            "transportista": [ "nmb_transportista", "dct_transportista", "cddid_transportista_bb"]
+        }
     },
     "txt02": {
         "align": "left",
@@ -120,7 +128,8 @@
         "value": "",
         "width": 495,
         "x": 46,
-        "y": 302
+        "y": 302,
+        "aldiaField": "caprntcrcampo2"
     },
     "txt03": {
         "align": "left",
@@ -136,7 +145,8 @@
         "value": "",
         "width": 495,
         "x": 46,
-        "y": 397
+        "y": 397,
+        "aldiaField": "caprntcrcampo3"
     },
     "txt04": {
         "align": "left",
@@ -152,7 +162,8 @@
         "value": "",
         "width": 495,
         "x": 46,
-        "y": 492
+        "y": 492,
+        "aldiaField": "caprntcrcampo4"
     },
     "txt05": {
         "align": "left",
@@ -168,7 +179,8 @@
         "value": "",
         "width": 495,
         "x": 560,
-        "y": 140
+        "y": 140,
+        "aldiaField": "caprntcrcampo5"
     },
     "txt06": {
         "align": "left",
@@ -184,7 +196,8 @@
         "value": "",
         "width": 495,
         "x": 560,
-        "y": 235
+        "y": 235,
+        "aldiaField": "caprntcrcampo6"
     },
     "txt07": {
         "align": "left",
@@ -200,7 +213,8 @@
         "value": "",
         "width": 495,
         "x": 560,
-        "y": 312
+        "y": 312,
+        "aldiaField": "caprntcrcampo7"
     },
     "txt08": {
         "align": "left",
@@ -216,7 +230,8 @@
         "value": "",
         "width": 495,
         "x": 560,
-        "y": 405
+        "y": 405,
+        "aldiaField": "caprntcrcampo8"
     },
     "txt09": {
         "align": "left",
@@ -232,7 +247,8 @@
         "value": "",
         "width": 495,
         "x": 560,
-        "y": 500
+        "y": 500,
+        "aldiaField": "caprntcrcampo9"
     },
     "txt10": {
         "align": "left",
@@ -248,7 +264,10 @@
         "value": "",
         "width": 130,
         "x": 43,
-        "y": 643
+        "y": 643,
+        "aldiaField": {
+            "cantidad": [ "caprntcrcantidad", "mpqid_bb" ]
+        }
     },
     "txt11": {
         "align": "left",
@@ -264,7 +283,10 @@
         "value": "",
         "width": 122,
         "x": 183,
-        "y": 643
+        "y": 643,
+        "aldiaField": {
+            "marcas": [ "caprntcrmarca", "caprntcrnumero" ]
+        }
     },
     "txt12": {
         "align": "left",
@@ -280,7 +302,8 @@
         "value": "",
         "width": 462,
         "x": 315,
-        "y": 643
+        "y": 643,
+        "aldiaField": "caprntcrdescripcionnaturaleza"
     },
     "txt13_1": {
         "align": "right",
@@ -296,7 +319,8 @@
         "value": "",
         "width": 121,
         "x": 797,
-        "y": 677
+        "y": 677,
+        "aldiaField": "caprntcrpesoneto"
     },
     "txt13_2": {
         "align": "right",
@@ -312,7 +336,8 @@
         "value": "",
         "width": 121,
         "x": 935,
-        "y": 677
+        "y": 677,
+        "aldiaField": "caprntcrpesobruto"
     },
     "txt14": {
         "align": "right",
@@ -328,7 +353,8 @@
         "value": "",
         "width": 121,
         "x": 797,
-        "y": 777
+        "y": 777,
+        "aldiaField": "caprntcrvolumen"
     },
     "txt15": {
         "align": "right",
@@ -344,7 +370,8 @@
         "value": "",
         "width": 121,
         "x": 935,
-        "y": 777
+        "y": 777,
+        "aldiaField": "docField_otrasUnidades"
     },
     "txt16": {
         "align": "left",
@@ -360,7 +387,10 @@
         "value": "",
         "width": 263,
         "x": 795,
-        "y": 869
+        "y": 869,
+        "aldiaField": {
+            "incoterms": [ "nctid_bb", "caprntcrprecio", "mndid", "caprntcrdescripcion" ]
+        }
     },
     "txt17_11": {
         "align": "right",
@@ -376,7 +406,8 @@
         "value": "",
         "width": 114,
         "x": 112,
-        "y": 997
+        "y": 997,
+        "aldiaField": "caprntcrfleteremitente"
     },
     "txt17_12": {
         "align": "right",
@@ -392,7 +423,8 @@
         "value": "",
         "width": 114,
         "x": 112,
-        "y": 1018
+        "y": 1018,
+        "aldiaField": "caprntcrseguroremitente"
     },
     "txt17_13": {
         "align": "right",
@@ -408,7 +440,8 @@
         "value": "",
         "width": 114,
         "x": 112,
-        "y": 1039
+        "y": 1039,
+        "aldiaField": "caprntcrotroremitente"
     },
     "txt17_14": {
         "align": "right",
@@ -424,7 +457,8 @@
         "value": "",
         "width": 114,
         "x": 112,
-        "y": 1061
+        "y": 1061,
+        "aldiaField": "docField_totalRemitente"
     },
     "txt17_21": {
         "align": "left",
@@ -443,7 +477,8 @@
         "value": "",
         "width": 80,
         "x": 240,
-        "y": 997
+        "y": 997,
+        "aldiaField": "mndidremitente"
     },
     "txt17_22": {
         "align": "left",
@@ -462,7 +497,8 @@
         "value": "",
         "width": 80,
         "x": 240,
-        "y": 1018
+        "y": 1018,
+        "aldiaField": "mndidseguroremitente"
     },
     "txt17_23": {
         "align": "left",
@@ -481,7 +517,8 @@
         "value": "",
         "width": 80,
         "x": 240,
-        "y": 1039
+        "y": 1039,
+        "aldiaField": "mndidotroremitente"
     },
     "txt17_24": {
         "align": "left",
@@ -500,7 +537,8 @@
         "value": "",
         "width": 80,
         "x": 240,
-        "y": 1061
+        "y": 1061,
+        "aldiaField": "docField_RemitenteMoneda"
     },
     "txt17_31": {
         "align": "right",
@@ -516,7 +554,8 @@
         "value": "",
         "width": 100,
         "x": 334,
-        "y": 997
+        "y": 997,
+        "aldiaField": "caprntcrfletedestinatario"
     },
     "txt17_32": {
         "align": "right",
@@ -532,7 +571,8 @@
         "value": "",
         "width": 100,
         "x": 334,
-        "y": 1018
+        "y": 1018,
+        "aldiaField": "caprntcrsegurodestinatario"
     },
     "txt17_33": {
         "align": "right",
@@ -548,7 +588,8 @@
         "value": "",
         "width": 100,
         "x": 334,
-        "y": 1039
+        "y": 1039,
+        "aldiaField": "caprntcrotrodestinatario"
     },
     "txt17_34": {
         "align": "right",
@@ -564,7 +605,8 @@
         "value": "",
         "width": 100,
         "x": 334,
-        "y": 1061
+        "y": 1061,
+        "aldiaField": "docField_totalDestinatario"
     },
     "txt17_41": {
         "align": "left",
@@ -583,7 +625,8 @@
         "value": "",
         "width": 94,
         "x": 447,
-        "y": 997
+        "y": 997,
+        "aldiaField": "mndiddestinatario"
     },
     "txt17_42": {
         "align": "left",
@@ -602,7 +645,8 @@
         "value": "",
         "width": 94,
         "x": 447,
-        "y": 1018
+        "y": 1018,
+        "aldiaField": "mndidsegurodestinatario"
     },
     "txt17_43": {
         "align": "left",
@@ -621,7 +665,8 @@
         "value": "",
         "width": 94,
         "x": 447,
-        "y": 1039
+        "y": 1039,
+        "aldiaField": "mndidotrodestinatario"
     },
     "txt17_44": {
         "align": "left",
@@ -640,7 +685,8 @@
         "value": "",
         "width": 94,
         "x": 447,
-        "y": 1061
+        "y": 1061,
+        "aldiaField": "docField_totalDestinatarioMoneda"
     },
     "txt18": {
         "align": "left",
@@ -656,7 +702,8 @@
         "value": "",
         "width": 503,
         "x": 40,
-        "y": 1103
+        "y": 1103,
+        "aldiaField": "caprntcrdocumento"
     },
     "txt19": {
         "align": "left",
@@ -672,7 +719,8 @@
         "value": "",
         "width": 503,
         "x": 40,
-        "y": 1171
+        "y": 1171,
+        "aldiaField": "caprntcrcampo19"
     },
     "txt21": {
         "align": "left",
@@ -688,7 +736,8 @@
         "value": "",
         "width": 503,
         "x": 560,
-        "y": 963
+        "y": 963,
+        "aldiaField": "caprntcrinstrucciones"
     },
     "txt22": {
         "align": "left",
@@ -704,7 +753,8 @@
         "value": "",
         "width": 503,
         "x": 560,
-        "y": 1070
+        "y": 1070,
+        "aldiaField": "caprntcrcampo22"
     },
     "txt23": {
         "align": "left",
@@ -720,7 +770,8 @@
         "value": "",
         "width": 503,
         "x": 40,
-        "y": 1103
+        "y": 1103,
+        "aldiaField": "caprntcrcampo23"
     },
     "txt24": {
         "align": "center",
@@ -736,7 +787,8 @@
         "value": "",
         "width": 173,
         "x": 477,
-        "y": 1357
+        "y": 1357,
+        "aldiaField": ""
     },
     "fecha_creacion": {
         "align": "center",
@@ -752,7 +804,8 @@
         "value": "",
         "width": 173,
         "x": 477,
-        "y": 1357
+        "y": 1357,
+        "aldiaField": "caprntcrfechacreacion"
     },
     "referencia": {
         "align": "center",
@@ -768,6 +821,7 @@
         "value": "",
         "width": 173,
         "x": 477,
-        "y": 1357
+        "y": 1357,
+        "aldiaField": ""
     }
 }
