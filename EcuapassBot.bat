@@ -1,4 +1,4 @@
-taskkill /IM "ecuapass_server.exe" /F
+taskkill /IM "ecuapass_commander.exe" /F
 
 echo "Actualizando EcuapassBot..."
 
