@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Dic/16: r0.971  GUI:Actived update settings.
 Dic/16: r0.970  Working SP,AD,BZ,RF. Improved classes with inheritance. Messages. Web access (codebin, AD).
 Dic/14: r0.968  Adapted for SP: dynamic PDF coords. Added token. Starting web version.
 Dic/10: r0.966  Fixed Icoterm ciudad (multiSources)
