@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Dic/17: r0.9720 Working for AGENCOMEX. Improved new empresa. 
 Dic/16: r0.9711 GUI:Added ProgressDialog
 Dic/16: r0.971  GUI:Actived update settings.
 Dic/16: r0.970  Working SP,AD,BZ,RF. Improved classes with inheritance. Messages. Web access (codebin, AD).
