@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Dic/18: r0.9730 BOT: Fixed image search.
 Dic/18: r0.9721 Added "getEcuapassFloat". Tunnings for AGCX. Fixing "ImageNotFound".
 Dic/17: r0.9720 Working for AGENCOMEX. Improved new empresa. 
 Dic/16: r0.9711 GUI:Added ProgressDialog
