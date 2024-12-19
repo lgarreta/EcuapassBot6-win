@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Dic/19: r0.9741 SSH: Test auto-update.
 Dic/19: r0.9740 BOT: Changed clear to locate on AbrirCerrar button.
 Dic/19: r0.9731 INFO: Fixed BZ vehiculo. MRN with "CEC" text.
 Dic/18: r0.9730 BOT: Fixed image search.
