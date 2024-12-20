@@ -1,0 +1,104 @@
+
+>>>>>> Carta de Porte Internacional por Carretera <<<
++++ getTipoProcedimiento : País: 'COLOMBIA'
+SERVER: Extrayendo código para el deposito 'ADUANOR'
+
+
++++ SubjectInfo for '02_Remitente' in text:
+TOPTEC S.A. - TECNOLOGIA EN CUBRIMIENTO S.A.
+KM 9 VIA MAGDALENA
+MANIZALES - COLOMBIA NIT: 890805453-8
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'NIT', 'numeroId': '890805453-8'}'
+'TOPTEC S.A. - TECNOLOGIA EN CUBRIMIENTO S.A.
+KM 9 VIA MAGDALENA
+MANIZALES - COLOMBIA'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'COLOMBIA', 'ciudad': 'MANIZALES', 'tipoId': 'NIT', 'numeroId': '890805453-8'}'
+'TOPTEC S.A. - TECNOLOGIA EN CUBRIMIENTO S.A.
+KM 9 VIA MAGDALENA'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'TOPTEC S.A. - TECNOLOGIA EN CUBRIMIENTO S.A.', 'direccion': 'KM 9 VIA MAGDALENA', 'pais': 'COLOMBIA', 'ciudad': 'MANIZALES', 'tipoId': 'NIT', 'numeroId': '890805453-8'}'
+'TOPTEC S.A. - TECNOLOGIA EN CUBRIMIENTO S.A.
+KM 9 VIA MAGDALENA'
++++ Subject info: '{'nombre': 'TOPTEC S.A. - TECNOLOGIA EN CUBRIMIENTO S.A.', 'direccion': 'KM 9 VIA MAGDALENA', 'pais': 'COLOMBIA', 'ciudad': 'MANIZALES', 'tipoId': 'NIT', 'numeroId': '890805453-8'}'
+
+
++++ SubjectInfo for '03_Destinatario' in text:
+HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127
+IBARRA - ECUADOR RUC: 1001820412001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+'HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127
+IBARRA - ECUADOR'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': 'IBARRA', 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+'HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'HUERA HUERA SEGUNDO MARCOS', 'direccion': 'AV. MARIANO ACOSTA 26-127', 'pais': 'ECUADOR', 'ciudad': 'IBARRA', 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+'HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127'
++++ Subject info: '{'nombre': 'HUERA HUERA SEGUNDO MARCOS', 'direccion': 'AV. MARIANO ACOSTA 26-127', 'pais': 'ECUADOR', 'ciudad': 'IBARRA', 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+
+
++++ SubjectInfo for '04_Consignatario' in text:
+HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127
+IBARRA - ECUADOR RUC: 1001820412001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+'HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127
+IBARRA - ECUADOR'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': 'IBARRA', 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+'HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'HUERA HUERA SEGUNDO MARCOS', 'direccion': 'AV. MARIANO ACOSTA 26-127', 'pais': 'ECUADOR', 'ciudad': 'IBARRA', 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+'HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127'
++++ Subject info: '{'nombre': 'HUERA HUERA SEGUNDO MARCOS', 'direccion': 'AV. MARIANO ACOSTA 26-127', 'pais': 'ECUADOR', 'ciudad': 'IBARRA', 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+
+
++++ SubjectInfo for '05_Notificado' in text:
+HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127
+IBARRA - ECUADOR RUC: 1001820412001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+'HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127
+IBARRA - ECUADOR'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': 'IBARRA', 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+'HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'HUERA HUERA SEGUNDO MARCOS', 'direccion': 'AV. MARIANO ACOSTA 26-127', 'pais': 'ECUADOR', 'ciudad': 'IBARRA', 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
+'HUERA HUERA SEGUNDO MARCOS
+AV. MARIANO ACOSTA 26-127'
++++ Subject info: '{'nombre': 'HUERA HUERA SEGUNDO MARCOS', 'direccion': 'AV. MARIANO ACOSTA 26-127', 'pais': 'ECUADOR', 'ciudad': 'IBARRA', 'tipoId': 'RUC', 'numeroId': '1001820412001'}'
++++ getDate text 'MANIZALES - COLOMBIA, NOVIEMBRE 25 DE 2023'
++++ getDate results: '25-11-2023'
++++ Location/Date text for '06_Recepcion': '{'ciudad': 'MANIZALES', 'pais': 'COLOMBIA', 'fecha': '25-11-2023'}'
++++ Location/Date info for '06_Recepcion': '{'ciudad': 'MANIZALES', 'pais': 'COLOMBIA', 'fecha': '25-11-2023'}'
++++ getDate text 'MANIZALES - COLOMBIA, NOVIEMBRE 25 DE 2023'
++++ getDate results: '25-11-2023'
++++ Location/Date text for '07_Embarque': '{'ciudad': 'MANIZALES', 'pais': 'COLOMBIA', 'fecha': '25-11-2023'}'
++++ Location/Date info for '07_Embarque': '{'ciudad': 'MANIZALES', 'pais': 'COLOMBIA', 'fecha': '25-11-2023'}'
++++ getDate text 'TULCAN - ECUADOR'
+SERVER: No existe fecha en texto 'TULCAN - ECUADOR'
++++ Location/Date text for '08_Entrega': '{'ciudad': 'TULCAN', 'pais': 'ECUADOR', 'fecha': '||LOW'}'
++++ getTipoProcedimiento : País: 'COLOMBIA'
++++ Location/Date info for '08_Entrega': '{'ciudad': 'TULCAN', 'pais': 'ECUADOR', 'fecha': '09-12-2023||LOW'}'
++++ Condiciones Pago/Transporte '{'pago': 'POR COBRAR', 'transporte': 'DIRECTO, SIN CAMBIO DEL CAMION'}'
++++ Unidades de Medida: '{'pesoNeto': '236504.00', 'pesoBruto': '238984.00', 'volumen': None, 'otraUnidad': None}'
++++ Mercancia info '{'cantidad': '87', 'embalaje': '152', 'marcas': 'TOPTEC', 'descripcion': 'TEJA OND P7 # 6 (0.92m),\nTEJA OND P7 # 8 (0.92m),\nTEJA OND P7 # 10 (0.92m),\nTEJA OND P7 # 12 (0.92m),\nCAB OND P7 (0.92m) 15G,\nPLACA DRYBOARD 1.22x2.44 x 4mm,\nPLACA DRYBOARD 6mm,\nTEJA OND P7 # 6 (0.92m) PINT 1 CAR,\nTEJA OND P7 # 8 (0.92m) PINT 1 CAR,\nLIMATESA LIMAHOYA PINT 1 CAR,\nCAB OND P7 (0.92m) 15G PINT 1 CAR,\nCAB LIM CAST 1.10m PINT 1 CAR.'}'
+
++++ Gastos Info: '{'fleteRemi': '14075.11', 'monedaRemi': 'USD', 'fleteDest': 0.0, 'monedaDest': None, 'otrosRemi': 0.0, 'otrosRemiMoneda': None, 'otrosDest': 0.0, 'otrosDestMoneda': None, 'totalRemi': '14075.11', 'totalRemiMoneda': 'USD', 'totalDest': 0.0, 'totalDestMoneda': None, 'seguroDest': 0.0, 'seguroRemi': 0.0}'
+
++++ Gastos info totals: '{'fleteRemi': '14075.11', 'monedaRemi': 'USD', 'fleteDest': 0.0, 'monedaDest': None, 'otrosRemi': '0.0', 'otrosRemiMoneda': None, 'otrosDest': '0.0', 'otrosDestMoneda': None, 'totalRemi': '14075.11', 'totalRemiMoneda': 'USD', 'totalDest': 0.0, 'totalDestMoneda': None, 'seguroDest': 0.0, 'seguroRemi': 0.0}'
++++ Documentos info: 'FACTURA ELECTRONICA DE VENTA FV - 18498'
++++ getDate text 'MANIZALES - COLOMBIA, NOVIEMBRE 25 DE 2023 20.Nombre y firma del remitente o su representante o agente'
++++ getDate results: '25-11-2023'
++++ Location/Date text for '19_Emision': '{'ciudad': 'MANIZALES', 'pais': 'COLOMBIA', 'fecha': '25-11-2023'}'
++++ Location/Date info for '19_Emision': '{'ciudad': 'MANIZALES', 'pais': 'COLOMBIA', 'fecha': '25-11-2023'}'
++++ getCiudadPais: text ': TULCAN - ECUADOR : '
++++ pais 'ECUADOR'
++++ ciudad 'TULCAN'
+
++++ Incoterm text ': TULCAN - ECUADOR : '
++++ Incoterm info '{'incoterm': 'DAP', 'precio': '82750.50', 'moneda': 'USD', 'pais': 'ECUADOR', 'ciudad': 'TULCAN'}'
++++ getTipoProcedimiento : País: 'COLOMBIA'

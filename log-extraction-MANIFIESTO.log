@@ -1,0 +1,37 @@
++++ getTipoProcedimiento : País: 'COLOMBIA'
++++ getDate text 'MANIZALES - COLOMBIA, NOVIEMBRE 25 DE 2023'
++++ getDate results: '25-11-2023'
+
++++ Vehiculo: 'REMOLQUE' : '{'marca': 'ROMARCO', 'anho': '1986', 'pais': 'COLOMBIA', 'placa': 'R01923', 'chasis': None, 'certificado': None, 'tipo': 'TRACTOCAMION'}'
+
++++ Vehiculo: 'VEHICULO' : '{'marca': 'CHEVROLET', 'anho': '1995', 'pais': 'COLOMBIA', 'placa': 'XEJ298', 'chasis': 'CH94945903', 'certificado': 'CH-CO-0042-21', 'tipo': 'TRACTOCAMION'}'
++++ getDate text 'OMAR GUILLERMO GORDON PAREDES 1964-11-22'
++++ getDate results: '22-11-1964'
+
++++ Conductor '{'pais': 'COLOMBIA', 'tipoDoc': 'CEDULA DE IDENTIDAD', 'documento': '98341140', 'sexo': 'Hombre', 'fecha_nacimiento': '22-11-1964', 'nombre': 'OMAR GUILLERMO GORDON PAREDES', 'licencia': '98341140'}'
+
+>>>>>> Datos sobre la carga <<<
++++ getCiudadPais: text 'MANIZALES - COLOMBIA'
++++ pais 'COLOMBIA'
++++ ciudad 'MANIZALES'
++++ getCiudadPais: text 'TULCAN - ECUADOR'
++++ pais 'ECUADOR'
++++ ciudad 'TULCAN'
++++ AduanaInfo text: '37_Aduana_Cruce' :''
++++ getCiudadPais: text 'IPIALES-COLOMBIA'
++++ pais 'COLOMBIA'
++++ ciudad 'IPIALES'
++++ AduanaInfo text: '38_Aduana_Destino' :'IPIALES-COLOMBIA'
++++ getCiudadPais: text 'TULCAN-ECUADOR'
++++ pais 'ECUADOR'
++++ ciudad 'TULCAN'
++++ AduanaInfo '{'paisCruce': 'COLOMBIA', 'ciudadCruce': 'IPIALES', 'paisDestino': 'ECUADOR', 'ciudadDestino': 'TULCAN'}'
+
++++ Unidades medida '{'pesoNetoTotal': '29508.44', 'pesoBrutoTotal': '29808.44', 'otraUnidadTotal': None}'
++++ getCiudadPais: text ': TULCAN - ECUADOR : '
++++ pais 'ECUADOR'
++++ ciudad 'TULCAN'
+
++++ Incoterm text ': TULCAN - ECUADOR : '
++++ Incoterm info '{'incoterm': 'DAP', 'precio': '10577.30', 'moneda': 'USD', 'pais': 'ECUADOR', 'ciudad': 'TULCAN'}'
++++ getTipoProcedimiento : País: 'COLOMBIA'
