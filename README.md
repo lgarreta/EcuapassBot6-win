@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Dic/20: r0.9743 Quantities only checked if american format.
 Dic/20: r0.9742 Fixed select cartaporte blue image.
 Dic/19: r0.9741 SSH: Test auto-update.
 Dic/19: r0.9740 BOT: Changed clear to locate on AbrirCerrar button.
