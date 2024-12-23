@@ -1,0 +1,115 @@
+
+>>>>>> Carta de Porte Internacional por Carretera <<<
++++ getTipoProcedimiento : País: 'ECUADOR'
+
+
++++ SubjectInfo for '02_Remitente' in text:
+PAPELERA NACIONAL S.A.
+CORONEL MARCELINO MARIDUEÑA VIA A EL TRIUNFO AV. PAPELERA
+GUAYAQUIL ECUADOR RUC: 0990017212001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '0990017212001'}'
+'PAPELERA NACIONAL S.A.
+CORONEL MARCELINO MARIDUEÑA VIA A EL TRIUNFO AV. PAPELERA
+GUAYAQUIL ECUADOR'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': 'GUAYAQUIL', 'tipoId': 'RUC', 'numeroId': '0990017212001'}'
+'PAPELERA NACIONAL S.A.
+CORONEL MARCELINO MARIDUEÑA VIA A EL TRIUNFO AV. PAPELERA'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'PAPELERA NACIONAL S.A.', 'direccion': 'CORONEL MARCELINO MARIDUEÑA VIA A EL TRIUNFO AV. PAPELERA', 'pais': 'ECUADOR', 'ciudad': 'GUAYAQUIL', 'tipoId': 'RUC', 'numeroId': '0990017212001'}'
+'PAPELERA NACIONAL S.A.
+CORONEL MARCELINO MARIDUEÑA VIA A EL TRIUNFO AV. PAPELERA'
++++ Subject info: '{'nombre': 'PAPELERA NACIONAL S.A.', 'direccion': 'CORONEL MARCELINO MARIDUEÑA VIA A EL TRIUNFO AV. PAPELERA', 'pais': 'ECUADOR', 'ciudad': 'GUAYAQUIL', 'tipoId': 'RUC', 'numeroId': '0990017212001'}'
+
+
++++ SubjectInfo for '03_Destinatario' in text:
+CARTONERA NACIONAL S.A.
+ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR
+VILLA-RICA
+CAUCA - COLOMBIA NIT. 817006230-9
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'NIT', 'numeroId': '817006230-9'}'
+'CARTONERA NACIONAL S.A.
+ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR
+VILLA-RICA
+CAUCA - COLOMBIA'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'COLOMBIA', 'ciudad': 'CAUCA', 'tipoId': 'NIT', 'numeroId': '817006230-9'}'
+'CARTONERA NACIONAL S.A.
+ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR
+VILLA-RICA'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'CARTONERA NACIONAL S.A.||LOW', 'direccion': 'ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR VILLA-RICA||LOW', 'pais': 'COLOMBIA', 'ciudad': 'CAUCA', 'tipoId': 'NIT', 'numeroId': '817006230-9'}'
+'CARTONERA NACIONAL S.A.
+ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR
+VILLA-RICA'
++++ Subject info: '{'nombre': 'CARTONERA NACIONAL S.A.||LOW', 'direccion': 'ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR VILLA-RICA||LOW', 'pais': 'COLOMBIA', 'ciudad': 'CAUCA', 'tipoId': 'NIT', 'numeroId': '817006230-9'}'
+
+
++++ SubjectInfo for '04_Consignatario' in text:
+CARTONERA NACIONAL S.A.
+ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR
+VILLA-RICA
+CAUCA - COLOMBIA NIT. 817006230-9
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'NIT', 'numeroId': '817006230-9'}'
+'CARTONERA NACIONAL S.A.
+ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR
+VILLA-RICA
+CAUCA - COLOMBIA'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'COLOMBIA', 'ciudad': 'CAUCA', 'tipoId': 'NIT', 'numeroId': '817006230-9'}'
+'CARTONERA NACIONAL S.A.
+ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR
+VILLA-RICA'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'CARTONERA NACIONAL S.A.||LOW', 'direccion': 'ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR VILLA-RICA||LOW', 'pais': 'COLOMBIA', 'ciudad': 'CAUCA', 'tipoId': 'NIT', 'numeroId': '817006230-9'}'
+'CARTONERA NACIONAL S.A.
+ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR
+VILLA-RICA'
++++ Subject info: '{'nombre': 'CARTONERA NACIONAL S.A.||LOW', 'direccion': 'ZONA FRANCA PERMANENTE CONJUNTO INDUSTRIAL PARQUE SUR VILLA-RICA||LOW', 'pais': 'COLOMBIA', 'ciudad': 'CAUCA', 'tipoId': 'NIT', 'numeroId': '817006230-9'}'
+
+
++++ SubjectInfo for '05_Notificado' in text:
+AGENCIA DE ADUANAS AGECOLDEX S.A. NIVEL
+CRA.6 NO.13-09 EDIF. MARkUS OF.702
+IPIALES COLOMBIA
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': None, 'numeroId': None}'
+'AGENCIA DE ADUANAS AGECOLDEX S.A. NIVEL
+CRA.6 NO.13-09 EDIF. MARkUS OF.702
+IPIALES COLOMBIA'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'COLOMBIA', 'ciudad': 'IPIALES', 'tipoId': None, 'numeroId': None}'
+'AGENCIA DE ADUANAS AGECOLDEX S.A. NIVEL
+CRA.6 NO.13-09 EDIF. MARKUS OF.702'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'AGENCIA DE ADUANAS AGECOLDEX S.A. NIVEL', 'direccion': 'CRA.6 NO.13-09 EDIF. MARKUS OF.702', 'pais': 'COLOMBIA', 'ciudad': 'IPIALES', 'tipoId': None, 'numeroId': None}'
+'AGENCIA DE ADUANAS AGECOLDEX S.A. NIVEL
+CRA.6 NO.13-09 EDIF. MARKUS OF.702'
++++ Subject info: '{'nombre': 'AGENCIA DE ADUANAS AGECOLDEX S.A. NIVEL', 'direccion': 'CRA.6 NO.13-09 EDIF. MARKUS OF.702', 'pais': 'COLOMBIA', 'ciudad': 'IPIALES', 'tipoId': None, 'numeroId': None}'
++++ getDate text 'GUAYAQUIL - ECUADOR 20/11/2024'
++++ getDate results: '20-11-2024'
++++ Location/Date text for '06_Recepcion': '{'ciudad': 'GUAYAQUIL', 'pais': 'ECUADOR', 'fecha': '20-11-2024'}'
++++ Location/Date info for '06_Recepcion': '{'ciudad': 'GUAYAQUIL', 'pais': 'ECUADOR', 'fecha': '20-11-2024'}'
++++ getDate text 'GUAYAQUIL - ECUADOR 20/11/2024'
++++ getDate results: '20-11-2024'
++++ Location/Date text for '07_Embarque': '{'ciudad': 'GUAYAQUIL', 'pais': 'ECUADOR', 'fecha': '20-11-2024'}'
++++ Location/Date info for '07_Embarque': '{'ciudad': 'GUAYAQUIL', 'pais': 'ECUADOR', 'fecha': '20-11-2024'}'
++++ getDate text 'IPIALES - COLOMBIA'
+SERVER: No existe fecha en texto 'IPIALES - COLOMBIA'
++++ Location/Date text for '08_Entrega': '{'ciudad': 'IPIALES', 'pais': 'COLOMBIA', 'fecha': '||LOW'}'
++++ getTipoProcedimiento : País: 'ECUADOR'
++++ Location/Date info for '08_Entrega': '{'ciudad': 'IPIALES', 'pais': 'COLOMBIA', 'fecha': '27-11-2024||LOW'}'
++++ Condiciones Pago/Transporte '{'pago': 'POR COBRAR||LOW', 'transporte': 'DIRECTO, CON CAMBIO DEL TRACTO-CAMION'}'
++++ Unidades de Medida: '{'pesoNeto': '23,824.00', 'pesoBruto': '23,824.00', 'volumen': None, 'otraUnidad': None}'
++++ Mercancia info '{'cantidad': '10', 'embalaje': 'BOBINAS||LOW', 'marcas': 'C A R T O N E R A\nNACIONAL', 'descripcion': 'PAPEL CORRUGADO MEDIO\nRECICLADO 100%/SGSCH-COC-008100'}'
+
++++ Gastos Info: '{'fleteRemi': '750.00', 'monedaRemi': 'USD', 'fleteDest': '0.00', 'monedaDest': 'USD', 'otrosRemi': '0.00', 'otrosRemiMoneda': 'USD', 'otrosDest': '0.00', 'otrosDestMoneda': 'USD', 'totalRemi': '750.00', 'totalRemiMoneda': 'USD', 'totalDest': '0.00', 'totalDestMoneda': 'USD', 'seguroDest': '0.00', 'seguroRemi': '0.00'}'
+
++++ Gastos info totals: '{'fleteRemi': '750.00', 'monedaRemi': 'USD', 'fleteDest': '0.00', 'monedaDest': 'USD', 'otrosRemi': '0.0', 'otrosRemiMoneda': 'USD', 'otrosDest': '0.0', 'otrosDestMoneda': 'USD', 'totalRemi': '750.00', 'totalRemiMoneda': 'USD', 'totalDest': '0.00', 'totalDestMoneda': 'USD', 'seguroDest': '0.00', 'seguroRemi': '0.00'}'
++++ Documentos info: 'FACTURA COMERCIAL N 001-005-000030324'
++++ getDate text 'QUITO - ECUADOR 20/11/2024'
++++ getDate results: '20-11-2024'
++++ Location/Date text for '19_Emision': '{'ciudad': 'QUITO', 'pais': 'ECUADOR', 'fecha': '20-11-2024'}'
++++ Location/Date info for '19_Emision': '{'ciudad': 'QUITO', 'pais': 'ECUADOR', 'fecha': '20-11-2024'}'
++++ getCiudadPais: text ' IPIALES US '
++++ pais 'None'
++++ ciudad ''
+
++++ Incoterm text ' IPIALES US '
++++ Incoterm info '{'incoterm': 'CPT', 'precio': '14175.27', 'moneda': 'USD', 'pais': 'COLOMBIA', 'ciudad': 'IPIALES'}'
++++ 21: Instrucciones info: CARGA CONTENERIZADA
+ENTREGA DIRECTA EN LUGAR DE ARRIBO PUENTE INTERNACIONAL DE
+RUMICHACA
++++ 22: Observaciones info: 
++++ getTipoProcedimiento : País: 'ECUADOR'

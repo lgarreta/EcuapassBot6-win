@@ -1,0 +1,29 @@
++++ getTipoProcedimiento : País: 'ECUADOR'
++++ getDate text '28/11/2024'
++++ getDate results: '28-11-2024'
+
++++ Vehiculo: 'REMOLQUE' : '{'marca': 'FABRICACION NACIONAL', 'anho': '2010', 'pais': 'Ecuador', 'placa': 'CR1340', 'chasis': '8R8RFNS35A9B04081', 'certificado': 'CRU-EC-1865-23', 'tipo': 'TRACTOCAMION'}'
+
++++ Vehiculo: 'VEHICULO' : '{'marca': 'DONGFENG', 'anho': '2009', 'pais': 'Ecuador', 'placa': 'UAA1032', 'chasis': 'LGAGLMYM493008311', 'certificado': 'CH-EC-0890-21', 'tipo': 'TRACTOCAMION'}'
++++ getDate text 'EDISON SALAZAR'
+SERVER: No existe fecha en texto 'EDISON SALAZAR'
+
++++ Conductor '{'pais': 'ECUADOR', 'tipoDoc': 'CEDULA DE IDENTIDAD', 'documento': '0400693586', 'sexo': 'Hombre', 'fecha_nacimiento': '||LOW', 'nombre': 'EDISON SALAZAR', 'licencia': '0400693586'}'
+
+>>>>>> Datos sobre la carga <<<
++++ getCiudadPais: text 'QUITO - ECUADOR'
++++ pais 'ECUADOR'
++++ ciudad 'QUITO'
++++ getCiudadPais: text 'IPIALES - COLOMBIA'
++++ pais 'COLOMBIA'
++++ ciudad 'IPIALES'
+
++++ Unidades medida '{'pesoNetoTotal': '16,201.00', 'pesoBrutoTotal': '16,760.00', 'otraUnidadTotal': None}'
++++ getCiudadPais: text '34 Precio de las mercancías (INCOTERMS 2020) y tipo de moneda  BOGOTA US '
++++ pais 'None'
++++ ciudad ''
+
++++ Incoterm text '34 Precio de las mercancías (INCOTERMS 2020) y tipo de moneda  BOGOTA US '
++++ Incoterm info '{'incoterm': 'CPT', 'precio': '32089.00', 'moneda': 'USD', 'pais': 'COLOMBIA', 'ciudad': 'BOGOTA'}'
++++ Info Unidad carga '{'id': 'LATU9002272', 'tipo': 'CONTAINER IC 40 FEET', 'condicion': 'LLENO', 'tipoCarga': 'CARGA CONTENERIZADA||LOW'}'
++++ getTipoProcedimiento : País: 'ECUADOR'
