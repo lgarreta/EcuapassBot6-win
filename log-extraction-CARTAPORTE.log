@@ -1,0 +1,142 @@
+
+>>>>>> Carta de Porte Internacional por Carretera <<<
++++ getTipoProcedimiento : País: 'PERU'
+SERVER: Extrayendo código para el deposito 'TCI'
+
+
++++ SubjectInfo for '02_Remitente' in text:
+PLASTICOS AGRICOLAS Y GEOMEMBRANAS S.A.C
+CARRETERA PAITA-SULLANA KM 3 NRO. MZA A LOTES 10 Y 11 
+ZED PAITA - PERU
+RUC: 20525728600
+
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '20525728600'}'
+'PLASTICOS AGRICOLAS Y GEOMEMBRANAS S.A.C
+CARRETERA PAITA-SULLANA KM 3 NRO. MZA A LOTES 10 Y 11 
+ZED PAITA - PERU'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'PERU', 'ciudad': 'PAITA', 'tipoId': 'RUC', 'numeroId': '20525728600'}'
+'PLASTICOS AGRICOLAS Y GEOMEMBRANAS S.A.C
+CARRETERA PAITA-SULLANA KM 3 NRO. MZA A LOTES 10 Y 11 
+ZED'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'PLASTICOS AGRICOLAS Y GEOMEMBRANAS S.A.C||LOW', 'direccion': 'CARRETERA PAITA-SULLANA KM 3 NRO. MZA A LOTES 10 Y 11 ZED||LOW', 'pais': 'PERU', 'ciudad': 'PAITA', 'tipoId': 'RUC', 'numeroId': '20525728600'}'
+'PLASTICOS AGRICOLAS Y GEOMEMBRANAS S.A.C
+CARRETERA PAITA-SULLANA KM 3 NRO. MZA A LOTES 10 Y 11 
+ZED'
++++ Subject info: '{'nombre': 'PLASTICOS AGRICOLAS Y GEOMEMBRANAS S.A.C||LOW', 'direccion': 'CARRETERA PAITA-SULLANA KM 3 NRO. MZA A LOTES 10 Y 11 ZED||LOW', 'pais': 'PERU', 'ciudad': 'PAITA', 'tipoId': 'RUC', 'numeroId': '20525728600'}'
+
+
++++ SubjectInfo for '03_Destinatario' in text:
+IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR 
+RUC:1891770290001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR'
+SERVER: Ciudad desconocida en texto: 'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR' de '03_Destinatario'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA. AV. INDOAMERICA S-N Y ABEL BARONA||LOW', 'direccion': 'AMBATO, TUNGURAHUA - ECUADOR||LOW', 'pais': 'ECUADOR', 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR'
++++ Subject info: '{'nombre': 'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA. AV. INDOAMERICA S-N Y ABEL BARONA||LOW', 'direccion': 'AMBATO, TUNGURAHUA - ECUADOR||LOW', 'pais': 'ECUADOR', 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+
+
++++ SubjectInfo for '04_Consignatario' in text:
+IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR 
+RUC:1891770290001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR'
+SERVER: Ciudad desconocida en texto: 'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR' de '04_Consignatario'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA. AV. INDOAMERICA S-N Y ABEL BARONA||LOW', 'direccion': 'AMBATO, TUNGURAHUA - ECUADOR||LOW', 'pais': 'ECUADOR', 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR'
++++ Subject info: '{'nombre': 'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA. AV. INDOAMERICA S-N Y ABEL BARONA||LOW', 'direccion': 'AMBATO, TUNGURAHUA - ECUADOR||LOW', 'pais': 'ECUADOR', 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+
+
++++ SubjectInfo for '05_Notificado' in text:
+IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR 
+RUC:1891770290001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR'
+SERVER: Ciudad desconocida en texto: 'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR' de '05_Notificado'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA. AV. INDOAMERICA S-N Y ABEL BARONA||LOW', 'direccion': 'AMBATO, TUNGURAHUA - ECUADOR||LOW', 'pais': 'ECUADOR', 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
+'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA.
+AV. INDOAMERICA S-N Y ABEL BARONA
+AMBATO, TUNGURAHUA - ECUADOR'
++++ Subject info: '{'nombre': 'IMPORTADORA AGRO ECUADOR RUESVI CIA LTDA. AV. INDOAMERICA S-N Y ABEL BARONA||LOW', 'direccion': 'AMBATO, TUNGURAHUA - ECUADOR||LOW', 'pais': 'ECUADOR', 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '1891770290001'}'
++++ getDate text 'ZED PAITA - PERU, 20-12-2024'
++++ getDate results: '20-12-2024'
++++ Location/Date text for '06_Recepcion': '{'ciudad': 'PAITA', 'pais': 'PERU', 'fecha': '20-12-2024'}'
++++ Location/Date info for '06_Recepcion': '{'ciudad': 'PAITA', 'pais': 'PERU', 'fecha': '20-12-2024'}'
++++ getDate text 'ZED PAITA - PERU, 20-12-2024'
++++ getDate results: '20-12-2024'
++++ Location/Date text for '07_Embarque': '{'ciudad': 'PAITA', 'pais': 'PERU', 'fecha': '20-12-2024'}'
++++ Location/Date info for '07_Embarque': '{'ciudad': 'PAITA', 'pais': 'PERU', 'fecha': '20-12-2024'}'
++++ getDate text 'HUAQUILLAS - ECUADOR'
+SERVER: No existe fecha en texto 'HUAQUILLAS - ECUADOR'
++++ Location/Date text for '08_Entrega': '{'ciudad': 'HUAQUILLAS', 'pais': 'ECUADOR', 'fecha': '||LOW'}'
++++ getTipoProcedimiento : País: 'PERU'
++++ Location/Date info for '08_Entrega': '{'ciudad': 'HUAQUILLAS', 'pais': 'ECUADOR', 'fecha': '27-12-2024||LOW'}'
++++ Condiciones Pago/Transporte '{'pago': 'POR COBRAR||LOW', 'transporte': 'DIRECTO, SIN CAMBIO DEL CAMION'}'
++++ Unidades de Medida: '{'pesoNeto': '28448.80', 'pesoBruto': '28770.00', 'volumen': None, 'otraUnidad': None}'
++++ Mercancia info '{'cantidad': '90', 'embalaje': '90||LOW', 'marcas': 'ROLLOS ', 'descripcion': 'Pelicula Plastica Polietileno\nAGROCLEAR\nAGROCLEARS\nAGROCLEARX\nAGROCLEAR LV'}'
+
++++ Gastos Info: '{'fleteRemi': '', 'monedaRemi': None, 'fleteDest': '800.00', 'monedaDest': 'USD', 'otrosRemi': '', 'otrosRemiMoneda': None, 'otrosDest': '', 'otrosDestMoneda': None, 'totalRemi': '', 'totalRemiMoneda': None, 'totalDest': '800.00', 'totalDestMoneda': 'USD', 'seguroDest': '', 'seguroRemi': ''}'
+SERVER: Traceback (most recent call last):
+  File "ecuapassdocs\info\ecuapass_info_cartaporte.py", line 416, in totalizeGastos
+  File "locale.py", line 338, in atof
+ValueError: could not convert string to float: ''
+
+SERVER: Traceback (most recent call last):
+  File "ecuapassdocs\info\ecuapass_info_cartaporte.py", line 422, in totalizeGastos
+  File "locale.py", line 338, in atof
+ValueError: could not convert string to float: ''
+
+
++++ Gastos info totals: '{'fleteRemi': '', 'monedaRemi': None, 'fleteDest': '800.00', 'monedaDest': 'USD', 'otrosRemi': '0.0||LOW', 'otrosRemiMoneda': None, 'otrosDest': '0.0||LOW', 'otrosDestMoneda': None, 'totalRemi': '', 'totalRemiMoneda': None, 'totalDest': '800.00', 'totalDestMoneda': 'USD', 'seguroDest': '', 'seguroRemi': ''}'
++++ Documentos info: 'FACTURA ELECTRONICA: F005-002368'
++++ getDate text 'ZED PAITA - PERU, 20-12-2024'
++++ getDate results: '20-12-2024'
++++ Location/Date text for '19_Emision': '{'ciudad': 'PAITA', 'pais': 'PERU', 'fecha': '20-12-2024'}'
++++ Location/Date info for '19_Emision': '{'ciudad': 'PAITA', 'pais': 'PERU', 'fecha': '20-12-2024'}'
++++ getCiudadPais: text '   PAITA - PERU'
++++ pais 'PERU'
++++ ciudad 'PAITA'
+
++++ Incoterm text '   PAITA - PERU'
++++ Incoterm info '{'incoterm': 'FCA', 'precio': '71415.80', 'moneda': 'USD', 'pais': 'PERU', 'ciudad': 'PAITA'}'
++++ 21: Instrucciones info: INGRESA A BODEGA TCI 
+DESGLOSE DE FLETE:
+FLETE: PAITA - TUMBES: $600.00
+FLETE: TUMBES - HUAQUILLAS: $200.00
+
++++ 22: Observaciones info: MRN:CEC202479960102
++++ getTipoProcedimiento : País: 'PERU'
