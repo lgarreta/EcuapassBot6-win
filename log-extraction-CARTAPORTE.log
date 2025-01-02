@@ -1,0 +1,131 @@
+
+>>>>>> Carta de Porte Internacional por Carretera <<<
++++ getTipoProcedimiento : País: 'COLOMBIA'
+
+
++++ SubjectInfo for '02_Remitente' in text:
+QUIMICA SOLUBLE S.A.S
+CALLE 94 B N 89-35
+APARTADO COLOMBIA NIT: 901029698-5
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'NIT', 'numeroId': '901029698-5'}'
+'QUIMICA SOLUBLE S.A.S
+CALLE 94 B N 89-35
+APARTADO COLOMBIA'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'COLOMBIA', 'ciudad': 'APARTADO', 'tipoId': 'NIT', 'numeroId': '901029698-5'}'
+'QUIMICA SOLUBLE S.A.S
+CALLE 94 B N 89-35'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'QUIMICA SOLUBLE S.A.S', 'direccion': 'CALLE 94 B N 89-35', 'pais': 'COLOMBIA', 'ciudad': 'APARTADO', 'tipoId': 'NIT', 'numeroId': '901029698-5'}'
+'QUIMICA SOLUBLE S.A.S
+CALLE 94 B N 89-35'
++++ Subject info: '{'nombre': 'QUIMICA SOLUBLE S.A.S', 'direccion': 'CALLE 94 B N 89-35', 'pais': 'COLOMBIA', 'ciudad': 'APARTADO', 'tipoId': 'NIT', 'numeroId': '901029698-5'}'
+
+
++++ SubjectInfo for '03_Destinatario' in text:
+AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12
+LATACUNGA-ECUADOR RUC: 0590060569001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12
+LATACUNGA-ECUADOR'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': 'LATACUNGA', 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI AGRONPAXI CIA. LTDA.||LOW', 'direccion': 'PANAMERICANA NORTE KM 12||LOW', 'pais': 'ECUADOR', 'ciudad': 'LATACUNGA', 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12'
++++ Subject info: '{'nombre': 'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI AGRONPAXI CIA. LTDA.||LOW', 'direccion': 'PANAMERICANA NORTE KM 12||LOW', 'pais': 'ECUADOR', 'ciudad': 'LATACUNGA', 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+
+
++++ SubjectInfo for '04_Consignatario' in text:
+AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12
+LATACUNGA-ECUADOR RUC: 0590060569001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12
+LATACUNGA-ECUADOR'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': 'LATACUNGA', 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI AGRONPAXI CIA. LTDA.||LOW', 'direccion': 'PANAMERICANA NORTE KM 12||LOW', 'pais': 'ECUADOR', 'ciudad': 'LATACUNGA', 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12'
++++ Subject info: '{'nombre': 'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI AGRONPAXI CIA. LTDA.||LOW', 'direccion': 'PANAMERICANA NORTE KM 12||LOW', 'pais': 'ECUADOR', 'ciudad': 'LATACUNGA', 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+
+
++++ SubjectInfo for '05_Notificado' in text:
+AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12
+LATACUNGA-ECUADOR RUC: 0590060569001
++++ Subject Info: Removed Id '{'nombre': None, 'direccion': None, 'pais': None, 'ciudad': None, 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12
+LATACUNGA-ECUADOR'
++++ Subject Info: Removed Ciudad-Pais '{'nombre': None, 'direccion': None, 'pais': 'ECUADOR', 'ciudad': 'LATACUNGA', 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12'
++++ Subject Info: Removed NombreDireccion '{'nombre': 'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI AGRONPAXI CIA. LTDA.||LOW', 'direccion': 'PANAMERICANA NORTE KM 12||LOW', 'pais': 'ECUADOR', 'ciudad': 'LATACUNGA', 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
+'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI
+AGRONPAXI CIA. LTDA.
+PANAMERICANA NORTE KM 12'
++++ Subject info: '{'nombre': 'AGRICOLA Y QUIMICA NACIONAL DEL COTOPAXI AGRONPAXI CIA. LTDA.||LOW', 'direccion': 'PANAMERICANA NORTE KM 12||LOW', 'pais': 'ECUADOR', 'ciudad': 'LATACUNGA', 'tipoId': 'RUC', 'numeroId': '0590060569001'}'
++++ getDate text 'APARTADO COLOMBIA 14-12-2024'
++++ getDate results: '14-12-2024'
++++ Location/Date text for '06_Recepcion': '{'ciudad': 'APARTADO', 'pais': 'COLOMBIA', 'fecha': '14-12-2024'}'
++++ Location/Date info for '06_Recepcion': '{'ciudad': 'APARTADO', 'pais': 'COLOMBIA', 'fecha': '14-12-2024'}'
++++ getDate text 'APARTADO COLOMBIA 14-12-2024'
++++ getDate results: '14-12-2024'
++++ Location/Date text for '07_Embarque': '{'ciudad': 'APARTADO', 'pais': 'COLOMBIA', 'fecha': '14-12-2024'}'
++++ Location/Date info for '07_Embarque': '{'ciudad': 'APARTADO', 'pais': 'COLOMBIA', 'fecha': '14-12-2024'}'
++++ getDate text 'LATACUNGA - ECUADOR'
+SERVER: No existe fecha en texto 'LATACUNGA - ECUADOR'
++++ Location/Date text for '08_Entrega': '{'ciudad': 'LATACUNGA', 'pais': 'ECUADOR', 'fecha': '||LOW'}'
++++ getTipoProcedimiento : País: 'COLOMBIA'
++++ Location/Date info for '08_Entrega': '{'ciudad': 'LATACUNGA', 'pais': 'ECUADOR', 'fecha': '14-12-2024||LOW'}'
++++ Condiciones Pago/Transporte '{'pago': 'POR COBRAR||LOW', 'transporte': 'DIRECTO, CON CAMBIO DEL TRACTO-CAMION'}'
++++ Unidades de Medida: '{'pesoNeto': '5950.00', 'pesoBruto': '6305.00', 'volumen': None, 'otraUnidad': None}'
++++ Mercancia info '{'cantidad': '7', 'embalaje': '152', 'marcas': 'SIN MARCAS', 'descripcion': 'PREMIX QS PLUS'}'
+
++++ Gastos Info: '{'fleteRemi': '', 'monedaRemi': None, 'fleteDest': '2090', 'monedaDest': 'USD', 'otrosRemi': '', 'otrosRemiMoneda': None, 'otrosDest': '100', 'otrosDestMoneda': 'USD', 'totalRemi': '', 'totalRemiMoneda': None, 'totalDest': '2190', 'totalDestMoneda': 'USD', 'seguroDest': '', 'seguroRemi': ''}'
+SERVER: Traceback (most recent call last):
+  File "ecuapassdocs\info\ecuapass_info_cartaporte.py", line 416, in totalizeGastos
+  File "locale.py", line 338, in atof
+ValueError: could not convert string to float: ''
+
+SERVER: Traceback (most recent call last):
+  File "ecuapassdocs\info\ecuapass_info_cartaporte.py", line 422, in totalizeGastos
+  File "locale.py", line 338, in atof
+ValueError: could not convert string to float: ''
+
+
++++ Gastos info totals: '{'fleteRemi': '', 'monedaRemi': None, 'fleteDest': '2090', 'monedaDest': 'USD', 'otrosRemi': '0.0||LOW', 'otrosRemiMoneda': None, 'otrosDest': '0.0||LOW', 'otrosDestMoneda': 'USD', 'totalRemi': '', 'totalRemiMoneda': None, 'totalDest': '2190', 'totalDestMoneda': 'USD', 'seguroDest': '', 'seguroRemi': ''}'
++++ Documentos info: 'FACTURA DE VENTA FQS 306'
++++ getDate text 'APARTADO COLOMBIA 14-12-2024 20.Nombre y firma del remitente o su representante o agente'
++++ getDate results: '14-12-2024'
++++ Location/Date text for '19_Emision': '{'ciudad': 'APARTADO', 'pais': 'COLOMBIA', 'fecha': '14-12-2024'}'
++++ Location/Date info for '19_Emision': '{'ciudad': 'APARTADO', 'pais': 'COLOMBIA', 'fecha': '14-12-2024'}'
++++ getCiudadPais: text '   APARTADO'
++++ pais 'None'
++++ ciudad ''
+
++++ Incoterm text '   APARTADO'
++++ Incoterm info '{'incoterm': 'EXW', 'precio': '16000.00', 'moneda': 'USD', 'pais': 'COLOMBIA', 'ciudad': 'APARTADO'}'
++++ 21: Instrucciones info: 
++++ 22: Observaciones info: MRN : CEC202479960020
+LETE APARTADO - IPIALES 1360.00 USD
+FLETE IPIALES - TULCAN 230.00 USD
+FLETE TULCAN - LATACUNGA 500 USD
+OTROS GASTOS 100 USD
++++ getTipoProcedimiento : País: 'COLOMBIA'

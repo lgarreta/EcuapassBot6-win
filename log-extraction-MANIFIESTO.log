@@ -1,0 +1,37 @@
++++ getTipoProcedimiento : País: 'COLOMBIA'
++++ getDate text 'YUMBO COLOMBIA 12-12-2024'
++++ getDate results: '12-12-2024'
+
++++ Vehiculo: 'REMOLQUE' : '{'marca': 'TRAILERS SANTANDER', 'anho': '2007', 'pais': 'COLOMBIA', 'placa': 'R45199', 'chasis': None, 'certificado': 'CRU-CO-0144-21', 'tipo': 'TRACTOCAMION'}'
+
++++ Vehiculo: 'VEHICULO' : '{'marca': 'KENWORTH', 'anho': '2006', 'pais': 'COLOMBIA', 'placa': 'SOW170', 'chasis': '130467', 'certificado': 'CH-CO-0941-24', 'tipo': 'TRACTOCAMION'}'
++++ getDate text 'CARLOS UNIGARRO'
+SERVER: No existe fecha en texto 'CARLOS UNIGARRO'
+
++++ Conductor '{'pais': 'COLOMBIA', 'tipoDoc': 'CEDULA DE IDENTIDAD', 'documento': '1088599114', 'sexo': 'Hombre', 'fecha_nacimiento': '||LOW', 'nombre': 'CARLOS UNIGARRO', 'licencia': '1088599114'}'
+
+>>>>>> Datos sobre la carga <<<
++++ getCiudadPais: text 'YUMBO - COLOMBIA'
++++ pais 'COLOMBIA'
++++ ciudad 'YUMBO'
++++ getCiudadPais: text 'TULCAN - ECUADOR'
++++ pais 'ECUADOR'
++++ ciudad 'TULCAN'
++++ AduanaInfo text: '37_Aduana_Cruce' :''
++++ getCiudadPais: text 'IPIALES - COLOMBIA'
++++ pais 'COLOMBIA'
++++ ciudad 'IPIALES'
++++ AduanaInfo text: '38_Aduana_Destino' :'IPIALES - COLOMBIA'
++++ getCiudadPais: text 'TULCAN - ECUADOR'
++++ pais 'ECUADOR'
++++ ciudad 'TULCAN'
++++ AduanaInfo '{'paisCruce': 'COLOMBIA', 'ciudadCruce': 'IPIALES', 'paisDestino': 'ECUADOR', 'ciudadDestino': 'TULCAN'}'
+
++++ Unidades medida '{'pesoNetoTotal': '27030', 'pesoBrutoTotal': '29264.12', 'otraUnidadTotal': '0'}'
++++ getCiudadPais: text '  YUMBO'
++++ pais 'None'
++++ ciudad ''
+
++++ Incoterm text '  YUMBO'
++++ Incoterm info '{'incoterm': 'FCA', 'precio': '100955.12', 'moneda': 'USD', 'pais': 'COLOMBIA', 'ciudad': 'YUMBO'}'
++++ getTipoProcedimiento : País: 'COLOMBIA'

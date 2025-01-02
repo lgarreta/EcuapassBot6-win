@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Jan/02: r0.9747 Logs with google sheets. New EcuCloud class instead EcuFeedback.
 Dic/23: r0.9746 Fixed SP Java docNumber extraction.
 Dic/23: r0.9745 Added web access to RDFRNT PERU
 Dic/20: r0.9744 Added web access to LGTNS
