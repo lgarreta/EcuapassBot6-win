@@ -1,0 +1,69 @@
+
+>>>>>> Carta de Porte Internacional por Carretera <<<
++++ getMRN no implementado para 'ALDIA::SERCARGA'
++++ getTipoProcedimiento : País: 'COLOMBIA'
++++ Deposito '05906600' : 'EL ROSAL (+++ COPIA DE ALMAROS +++))'
++++ getCiudadPais: text 'VILLA RICA - COLOMBIA'
++++ pais 'COLOMBIA'
++++ ciudad ''
++++ getCiudadPais: text 'VILLA RICA - COLOMBIA'
+
++++ Subject '02_Remitente': '{'nombre': 'LAMINATE PACKAGING COLOMBIA SAS', 'direccion': 'PARQUE SUR KM 24 VIA CALI SANTANDER DE QUILICHAO. VILLA RICA-COLOMBIA', 'pais': 'COLOMBIA', 'ciudad': '||LOW', 'tipoId': 'NIT', 'numeroId': '900926488'}'
++++ getCiudadPais: text 'QUITO - ECUADOR'
++++ pais 'ECUADOR'
++++ ciudad 'QUITO'
++++ getCiudadPais: text 'QUITO - ECUADOR'
+
++++ Subject '03_Destinatario': '{'nombre': 'BLENASTOR C.A.', 'direccion': 'BENJAMIN CARRION E9-194 ALFREDO LUN.. QUITO-ECUADOR', 'pais': 'ECUADOR', 'ciudad': 'QUITO', 'tipoId': 'RUC', 'numeroId': '1790378489001'}'
++++ getCiudadPais: text 'QUITO - ECUADOR'
++++ pais 'ECUADOR'
++++ ciudad 'QUITO'
++++ getCiudadPais: text 'QUITO - ECUADOR'
+
++++ Subject '04_Consignatario': '{'nombre': 'BLENASTOR C.A.', 'direccion': 'BENJAMIN CARRION E9-194 ALFREDO LUN.. QUITO-ECUADOR', 'pais': 'ECUADOR', 'ciudad': 'QUITO', 'tipoId': 'RUC', 'numeroId': '1790378489001'}'
+
++++ Subject '05_Notificado': '{'nombre': 'BLENASTOR C.A.', 'direccion': 'BENJAMIN CARRION E9-194 ALFREDO LUN.. QUITO-ECUADOR', 'pais': 'ECUADOR', 'ciudad': '||LOW', 'tipoId': 'RUC', 'numeroId': '1790378489001'}'
++++ getDate text 'ZONA FRANCA PARQUE SUR - COLOMBIA 2024-09-30'
++++ getDate results: '30-09-2024'
+SERVER: Ciudad desconocida en texto: 'ZONA FRANCA PARQUE SUR - COLOMBIA 2024-09-30' de '06_Recepcion'
++++ Location/Date text for '06_Recepcion': '{'ciudad': '||LOW', 'pais': 'COLOMBIA', 'fecha': '30-09-2024'}'
++++ Location/Date info for '06_Recepcion': '{'ciudad': '||LOW', 'pais': 'COLOMBIA', 'fecha': '30-09-2024'}'
++++ getDate text 'ZONA FRANCA PARQUE SUR - COLOMBIA 2024-09-30'
++++ getDate results: '30-09-2024'
+SERVER: Ciudad desconocida en texto: 'ZONA FRANCA PARQUE SUR - COLOMBIA 2024-09-30' de '07_Embarque'
++++ Location/Date text for '07_Embarque': '{'ciudad': '||LOW', 'pais': 'COLOMBIA', 'fecha': '30-09-2024'}'
++++ Location/Date info for '07_Embarque': '{'ciudad': '||LOW', 'pais': 'COLOMBIA', 'fecha': '30-09-2024'}'
++++ getDate text 'TULCAN - ECUADOR 2024-10-10'
++++ getDate results: '10-10-2024'
++++ Location/Date text for '08_Entrega': '{'ciudad': 'TULCAN', 'pais': 'ECUADOR', 'fecha': '10-10-2024'}'
++++ Location/Date info for '08_Entrega': '{'ciudad': 'TULCAN', 'pais': 'ECUADOR', 'fecha': '10-10-2024'}'
++++ Condiciones Pago/Transporte '{'pago': 'POR COBRAR||LOW', 'transporte': 'DIRECTO, CON CAMBIO DEL TRACTO-CAMION'}'
++++ Unidades de Medida: '{'pesoNeto': '4032,27||LOW', 'pesoBruto': '3028,47||LOW', 'volumen': '00', 'otraUnidad': '0.00'}'
++++ Mercancia info '{'cantidad': '1673', 'embalaje': '035', 'marcas': 'LAMINATE 1673', 'descripcion': 'FLT BLENDAX FULL MENTA 60CC; FLT BLENDAX FULL MENTA 75CC; FLT BLENDAX KIDS 75CC;\nFLT BLENDAX XTREME WHITE 75 CC; FLT_BLENDAX SENSITIVE 75CC 2023; FLT_ENCIDENT DUO\n75CC EC-PE 24; FLT BLENDAX MULTIACCION 60CC-AISA (TUBOS COLAPSIBLES DE LAMINADO\nPLASTICO) SEGUN FACTURA: 5959211484//FMM: 983050 DE 2024-09-30 .'}'
+
++++ Gastos Info: '{'fleteRemi': '3.578,19||LOW', 'monedaRemi': 'USD', 'fleteDest': '', 'monedaDest': None, 'otrosRemi': '', 'otrosRemiMoneda': None, 'otrosDest': '', 'otrosDestMoneda': None, 'totalRemi': '3601,67||LOW', 'totalRemiMoneda': 'USD', 'totalDest': '', 'totalDestMoneda': None, 'seguroDest': '', 'seguroRemi': '23,48||LOW'}'
+SERVER: Traceback (most recent call last):
+  File "ecuapassdocs\info\ecuapass_info_cartaporte.py", line 416, in totalizeGastos
+  File "locale.py", line 338, in atof
+ValueError: could not convert string to float: ''
+
+SERVER: Traceback (most recent call last):
+  File "ecuapassdocs\info\ecuapass_info_cartaporte.py", line 422, in totalizeGastos
+  File "locale.py", line 338, in atof
+ValueError: could not convert string to float: ''
+
+
++++ Gastos info totals: '{'fleteRemi': '3.578,19||LOW', 'monedaRemi': 'USD', 'fleteDest': '', 'monedaDest': None, 'otrosRemi': '0.0||LOW', 'otrosRemiMoneda': None, 'otrosDest': '0.0||LOW', 'otrosDestMoneda': None, 'totalRemi': '3601,67||LOW', 'totalRemiMoneda': 'USD', 'totalDest': '', 'totalDestMoneda': None, 'seguroDest': '', 'seguroRemi': '23,48||LOW'}'
++++ Documentos info: 'FACTURA: 5959211484'
++++ getDate text 'ZONA FRANCA PARQUE SUR - COLOMBIA 2024-09-30'
++++ getDate results: '30-09-2024'
+SERVER: Ciudad desconocida en texto: 'ZONA FRANCA PARQUE SUR - COLOMBIA 2024-09-30' de '19_Emision'
++++ Location/Date text for '19_Emision': '{'ciudad': '||LOW', 'pais': 'COLOMBIA', 'fecha': '30-09-2024'}'
++++ Location/Date info for '19_Emision': '{'ciudad': '||LOW', 'pais': 'COLOMBIA', 'fecha': '30-09-2024'}'
++++ getCiudadPais: text ' Valor:  Moneda: DOLARES TULCAN - ECUADOR'
++++ pais 'ECUADOR'
++++ ciudad 'TULCAN'
+
++++ Incoterm text ' Valor:  Moneda: DOLARES TULCAN - ECUADOR'
++++ Incoterm info '{'incoterm': 'CIP', 'precio': '55,787.98', 'moneda': 'USD', 'pais': 'ECUADOR', 'ciudad': 'TULCAN'}'
++++ getTipoProcedimiento : País: 'COLOMBIA'

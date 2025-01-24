@@ -3,9 +3,10 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Jan/23: r0.9773 Fixed "checkQuantity".
+
 Jan/23: r0.9773 Checks Version 7.0
 Jan/22: r0.9772 Fixed ALDIA connector "::"
-
 Jan/22: r0.9771 New installer (cloud checkin). New GUI Settings (Panel, Empresa, Dialog)
 Jan/12: r0.9751 GUI: Modified DocInput. Working with ALDIA::XXXX branchs. Improved EcuInfo, EcuData.
 Jan/02: r0.9747 Logs with google sheets. New EcuCloud class instead EcuFeedback.
