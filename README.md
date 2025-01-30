@@ -3,8 +3,9 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
-Jan/23: r0.9773 Fixed "checkQuantity".
+Jan/28: r0.9774 Added "showWarnings" for numerical values
 
+Jan/23: r0.9773 Fixed "checkQuantity".
 Jan/23: r0.9773 Checks Version 7.0
 Jan/22: r0.9772 Fixed ALDIA connector "::"
 Jan/22: r0.9771 New installer (cloud checkin). New GUI Settings (Panel, Empresa, Dialog)
