@@ -39,7 +39,7 @@
         ],
         "value": "",
         "width": 233,
-        "x": 500,
+        "x": 300,
         "y": 88,
         "aldiaField": "caprntcrid"
     },
@@ -49,12 +49,7 @@
         "ecudocsField": "00a_Pais",
         "codebinField": "",
         "appField": "txt0a",
-        "aldiaField": "docField_pais",
-        "restrictions": [
-            "hidden",
-            "readonly",
-            "color=red"
-        ]
+        "aldiaField": "docField_pais"
     },
     "txt0a": {
         "align": "left",
@@ -769,13 +764,13 @@
         "appField": "txt23",
         "font": "normal",
         "fontSize": "14px",
-        "height": 125,
+        "height": 36,
         "maxChars": 50,
         "maxLines": 2,
         "value": "",
         "width": 503,
-        "x": 560,
-        "y": 1210,
+        "x": 40,
+        "y": 1103,
         "aldiaField": "caprntcrcampo23"
     },
     "txt24": {

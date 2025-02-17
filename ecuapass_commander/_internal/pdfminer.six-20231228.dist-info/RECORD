@@ -1,7 +1,7 @@
-../Scripts/__pycache__/dumppdf.cpython-311.pyc,,
-../Scripts/__pycache__/pdf2txt.cpython-311.pyc,,
-../Scripts/dumppdf.py,sha256=nPTjhlm5O3NLYBuVdmDiBBPsEzvqJWcSzGHX_y6K3pk,14334
-../Scripts/pdf2txt.py,sha256=cg9TBsYDDXnMy4ZZukHVtaSAOVXovfZwzWZyul7aXKM,9797
+../../Scripts/__pycache__/dumppdf.cpython-311.pyc,,
+../../Scripts/__pycache__/pdf2txt.cpython-311.pyc,,
+../../Scripts/dumppdf.py,sha256=Fj91vPVkiJWCWFmbnImxKDxfXSf2cscgnqMP6LTAS70,14340
+../../Scripts/pdf2txt.py,sha256=7x8K9cx7s60vJw_yY4qsAFOiFkJnwDud5Ahcmo9Kens,9803
 pdfminer.six-20231228.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 pdfminer.six-20231228.dist-info/LICENSE,sha256=8B5daZozdmtcr0pQmfKFarpPP3XqHfBdwFcrNLS-qPI,1093
 pdfminer.six-20231228.dist-info/METADATA,sha256=9kibOZETmxw6bBv0WM1zCUonrDSdgL1betsbgAwzow8,4160
