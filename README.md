@@ -3,8 +3,10 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
-Jan/28: r0.9774 Added "showWarnings" for numerical values
+Feb/24: r0.9778 EcuapassBot MenuIzquierdo. New 'getInfoAduana' for all. New winexe for .pycs.
 
+Feb/20: r0.9777 Tested on Windows Dynamic imports for InfoDocClasses. Working for AGENCOMEX.
+Feb/18: r0.9776 Fixed Dynamic imports for InfoDocClasses. Working for AGENCOMEX.
 Jan/23: r0.9773 Fixed "checkQuantity".
 Jan/23: r0.9773 Checks Version 7.0
 Jan/22: r0.9772 Fixed ALDIA connector "::"
