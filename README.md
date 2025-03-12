@@ -3,9 +3,10 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Mar/12: r0.9781 Added more MenuIzquierdo images
+
 Mar/11: r0.9780 Reduced Image detection to 70% Only for MenuIzquierdo
 Mar/11: r0.9779 Reduced Image detection to 70%.
-
 Feb/26: r0.9778 Fixed LGTRNAS::MRF from "22_Observaciones".
 Feb/20: r0.9777 Tested on Windows Dynamic imports for InfoDocClasses. Working for AGENCOMEX.
 Feb/18: r0.9776 Fixed Dynamic imports for InfoDocClasses. Working for AGENCOMEX.
