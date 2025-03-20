@@ -3,8 +3,10 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
-Mar/12: r0.9781 Added more MenuIzquierdo images
+Mar/20: r0.9783 Patch 001: Empresa in BotXXX. Improved CPI 'Gastos'. Fixed empty MCI 'aduana'. Log MCI Transportista.  
 
+Mar/19: r0.9782 Testing Patches.
+Mar/12: r0.9781 Added more MenuIzquierdo images
 Mar/11: r0.9780 Reduced Image detection to 70% Only for MenuIzquierdo
 Mar/11: r0.9779 Reduced Image detection to 70%.
 Feb/26: r0.9778 Fixed LGTRNAS::MRF from "22_Observaciones".
