@@ -3,6 +3,10 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Mar/26: r0.9786 Fixed autoupdate and patches: new bot.bat upd.bat patch.bat
+
+Mar/26: r0.9785 Testing new git update bats
+Mar/26: r0.9784 Pathcing temporal fix: Always patching.
 Mar/20: r0.9783 Patch 001: Empresa in BotXXX. Improved CPI 'Gastos'. Fixed empty MCI 'aduana'. Log MCI Transportista.  
 
 Mar/19: r0.9782 Testing Patches.

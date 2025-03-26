@@ -14,10 +14,6 @@ set "CURRENT_FILE=..\ecuapass_commander\ecuapass_commander.exe"
 set "ORIGINAL_FILE=..\ecuapass_commander\ecuapass_commander_original.exe"
 set "NEW_FILE=..\ecuapass_commander\new_ecuapass_commander.exe"
 
-echo ===================================
-echo Checking for Updates from GitHub
-echo ===================================
-
 :: Change to the app directory
 cd /d "%~dp0"
 
@@ -39,13 +35,13 @@ for /f "delims=" %%P in ('dir /b /o:n patch_*.vcdiff') do (
     set PATCH_VERSION=%%~nP
     set PATCH_VERSION=!PATCH_VERSION:update_patch_=!
 
-    echo +++ Checking Patch: !PATCH_FILE!
+    echo +++ Checking and Applying Patch: !PATCH_FILE!
 
     :: Check if the patch is already applied
     findstr /C:"!PATCH_VERSION!" "%LOG_FILE%" >nul
-    if !errorlevel! == 0 (
-        echo +++ Patch !PATCH_VERSION! already applied. Skipping...
-    ) else (
+REM    if !errorlevel! == 0 (
+REM        echo +++ Patch !PATCH_VERSION! already applied. Skipping...
+REM    ) else (
         echo +++ Applying patch !PATCH_VERSION!...
         xdelta3.exe -d -s "%ORIGINAL_FILE%" "!PATCH_FILE!" "%NEW_FILE%"
 
@@ -58,11 +54,7 @@ for /f "delims=" %%P in ('dir /b /o:n patch_*.vcdiff') do (
             echo +++ Patch !PATCH_VERSION! failed! Stopping update process.
             goto end
         )
-    )
+REM    )
 )
-
 :end
-echo ===================================
-echo Starting Java GUI...
-echo ===================================
 
