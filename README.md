@@ -3,8 +3,10 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
-Mar/28: r0.9787 patch_002: getFloatValue for ALDIA, TSP.
+Abr/01: r0.974: Patch03: GUI:Added CITRAPCAR, CMM:Added CITRAPCAR: getDate, getSubjectId, getBultosInfo
 
+Mar/29: r0.9788 Creating Testing ebot for Maluza.
+Mar/28: r0.9787 patch_002: getFloatValue for ALDIA, TSP.
 Mar/27: r0.9786 New .bat for patch: Only one last patch file
 Mar/26: r0.9785 Testing new git update bats
 Mar/26: r0.9784 Pathcing temporal fix: Always patching.
