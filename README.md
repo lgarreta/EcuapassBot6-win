@@ -3,8 +3,9 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
-Abr/04: r0.975: Patch004: Fixed win spaced names. Changes split token to ::"
+Abr/04: r0.976: Patch005: Fixed splitting token to |
 
+Abr/04: r0.975: Patch004: Fixed win spaced names. Changes split token to ::"
 Abr/01: r0.974: Patch03: GUI:Added CITRAPCAR, CMM:Added CITRAPCAR: getDate, getSubjectId, getBultosInfo
 Mar/29: r0.9788 Creating Testing ebot for Maluza.
 Mar/28: r0.9787 patch_002: getFloatValue for ALDIA, TSP.
