@@ -3,6 +3,7 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
+Abr/04: r0.977: GUI: Rewrite settings for LGT
 Abr/04: r0.976: Patch005: Fixed splitting token to |
 
 Abr/04: r0.975: Patch004: Fixed win spaced names. Changes split token to ::"
