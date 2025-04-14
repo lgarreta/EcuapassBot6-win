@@ -616,6 +616,20 @@
         "x": 155,
         "y": 857
     },
+    "txt29_1": {
+        "info": "Only for Transcomerinter general description",
+        "ecudocsField": "",
+        "codebinField": "",
+        "appField": "",
+        "value": "",
+        "height": 341,
+        "width": 380,
+        "x": 155,
+        "y": 857
+    },
+
+
+
     "txt30": {
         "align": "left",
         "class": "input_general",
@@ -651,7 +665,7 @@
     "txt32_1": {
         "align": "right",
         "class": "input_valor",
-        "ecudocsField": "32a_Peso_Bruto",
+        "ecudocsField": "32a_Peso_Neto",
         "codebinField": "a32a",
         "appField": "txt32_1",
         "font": "normal",
@@ -667,7 +681,7 @@
     "txt32_2": {
         "align": "right",
         "class": "input_valor",
-        "ecudocsField": "32a_Peso_BrutoTotal",
+        "ecudocsField": "32a_Peso_NetoTotal",
         "codebinField": "a34b",
         "appField": "txt32_2",
         "font": "normal",
@@ -683,7 +697,7 @@
     "txt32_3": {
         "align": "right",
         "class": "input_valor",
-        "ecudocsField": "32b_Peso_Neto",
+        "ecudocsField": "32b_Peso_Bruto",
         "codebinField": "a32b",
         "appField": "txt32_3",
         "font": "normal",
@@ -699,7 +713,7 @@
     "txt32_4": {
         "align": "right",
         "class": "input_valor",
-        "ecudocsField": "32b_Peso_NetoTotal",
+        "ecudocsField": "32b_Peso_BrutoTotal",
         "codebinField": "a34c",
         "appField": "txt32_4",
         "font": "normal",
