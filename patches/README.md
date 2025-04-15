@@ -1,7 +1,8 @@
 # PATCHES LOG
 
-Abr/14: Patch 008: Fixed TSP/BYZA MRN
+Abr/16: Patch 009: Fixed improvements TRANSM
 
+Abr/14: Patch 008: Fixed TSP/BYZA MRN
 Abr/14: Patch 007: Added TRANSCOMERINTER. Improved: PdfDyn, Infos (MCI,PCI), bots (Agregar CPI, Precintos)
 Abr/06: Patch 006: Added exceptions to cloud
 Abr/04: Patch 005: Fixed splitting token to (|)

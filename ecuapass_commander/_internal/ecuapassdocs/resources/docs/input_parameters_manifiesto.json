@@ -665,7 +665,7 @@
     "txt32_1": {
         "align": "right",
         "class": "input_valor",
-        "ecudocsField": "32a_Peso_Neto",
+        "ecudocsField": "32a_Peso_Bruto",
         "codebinField": "a32a",
         "appField": "txt32_1",
         "font": "normal",
@@ -681,7 +681,7 @@
     "txt32_2": {
         "align": "right",
         "class": "input_valor",
-        "ecudocsField": "32a_Peso_NetoTotal",
+        "ecudocsField": "32a_Peso_BrutoTotal",
         "codebinField": "a34b",
         "appField": "txt32_2",
         "font": "normal",
@@ -697,7 +697,7 @@
     "txt32_3": {
         "align": "right",
         "class": "input_valor",
-        "ecudocsField": "32b_Peso_Bruto",
+        "ecudocsField": "32b_Peso_Neto",
         "codebinField": "a32b",
         "appField": "txt32_3",
         "font": "normal",
@@ -713,7 +713,7 @@
     "txt32_4": {
         "align": "right",
         "class": "input_valor",
-        "ecudocsField": "32b_Peso_BrutoTotal",
+        "ecudocsField": "32b_Peso_NetoTotal",
         "codebinField": "a34c",
         "appField": "txt32_4",
         "font": "normal",
