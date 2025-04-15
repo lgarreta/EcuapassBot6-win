@@ -1,5 +1,6 @@
 # PATCHES LOG
 
+Abr/16: Patch 012: 
 Abr/16: Patch 011: Sleep in cartaporte search in MCI. Default birthdate in MCI
 
 Abr/16: Patch 010: Fixed TSP Manifiesto
