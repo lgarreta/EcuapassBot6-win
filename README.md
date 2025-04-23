@@ -3,10 +3,9 @@ Extracción y digitación automática de documentos al sistema ECUAPASS.
 jGUI calls pyCommander communicating with parameters and string responses.
 
 ## LOG
-Abr/15: r0.9813: Patch012: 
-Abr/15: r0.9813: Patch011: 
+Abr/22: r0.9813 Patch 013: New version with Restricted Mouse
 
-Abr/15: r0.9812: Patch010: Fixed TSP Manifiesto, CloudException
+Abr/22: r0.9812: Testing mouse restricted
 Abr/15: r0.9811: Patch009: Bot6: Fixed last improvements: Pesos, Chasis, Certificados. GUI: restricted
 
 Abr/14: Patch 007: Added TRANSCOMERINTER. Improved: PdfDyn, Infos (MCI,PCI), bots (Agregar CPI, Precintos)
