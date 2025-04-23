@@ -1,5 +1,6 @@
 # PATCHES LOG
 
+Abr/22: Patch 014: Fixed MCI:mouseController, py.FAILSAFE=false
 Abr/22: Patch 013: Version with Mouse Restriction
 
 Abr/16: Patch 012: 
