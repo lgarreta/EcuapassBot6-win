@@ -1,21 +1,43 @@
-# PATCHES LOG
+# EcuapassBot5: 
+Extracción y digitación automática de docuentos al ECUAPASS.
+Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
-Abr/22: Patch 014: Fixed MCI:mouseController, py.FAILSAFE=false
-Abr/22: Patch 013: Version with Mouse Restriction
+## LOG
+Abr/24: r0.9825: Patch015: Modifications for TRSCMI. GUI:Added openPdfFile
 
-Abr/16: Patch 012: 
-Abr/16: Patch 011: Sleep in cartaporte search in MCI. Default birthdate in MCI
-
-Abr/16: Patch 010: Fixed TSP Manifiesto
-
-Abr/16: Patch 009: Fixed improvements TRANSM
-
-Abr/14: Patch 008: Fixed TSP/BYZA MRN
-Abr/14: Patch 007: Added TRANSCOMERINTER. Improved: PdfDyn, Infos (MCI,PCI), bots (Agregar CPI, Precintos)
-Abr/06: Patch 006: Added exceptions to cloud
-Abr/04: Patch 005: Fixed splitting token to (|)
-Abr/03: Patch 004: Fixed win spaced names. Changes split token to ::"
-Abr/01: Patch03: Added CITRAPCAR: getDate, getSubjectId, getBultosInfo
-Mar/26: Patch 002: getFloatValue for ALDIA, TSP
-Mar/20: Patch 001: Empresa in BotXXX. Improved CPI 'Gastos'. Fixed empty MCI 'aduana'. Log MCI Transportista.  
-
+Abr/23: r0.9824: Patch015: Minor printException fixes. fillSubject::TipoID to CPI Info.
+Abr/22: r0.9823: Fixed MCI:mouseController. Added py.FAILSAFE=false
+Abr/22: r0.984  Patch 013: New version with Restricted Mouse
+Abr/21: r0.983  Added confine mouse. Not tested for all clients.
+Abr/16: r0.982  Working TRCI. Testing mouse restricted.
+Abr/12: r0.981  Second version including TRANSCOMERINTER. Tested CMM, BOT.
+Abr/11: r0.980  First version including TRANSCOMERINTER. Not tested in all companies
+Abr/10: r0.9784 Adapting scraping for dynamic multicells as in TRANSCOMERINTER mercancia
+Abr/09: r0.9783 Configuring EBot for TRANSCOMERINTER: CMM: Testing PDF Formats
+Abr/01: r0.9782 Added CITRAPCAR: SubjectId,
+Mar/28: r0.9781 Patch 001: 'getFloatValue' for PCI::Gastos and Unidades
+Mar/20: r0.9780 Patch 001: With previous changes.
+Feb/19: r0.9779 ALL: Fixed empty 'aduana' in MCI (ALL). ALL: Log Transportista info in MCI.  
+                ALL: Improved CPI's 'Gastos' totalizeCheckGastos. BZ: Fill Chasis (RM) in MCI.
+Feb/24: r0.9778 EcuapassBot MenuIzquierdo. New 'getInfoAduana' for all. New winexe for .pycs.
+Feb/22: r0.9777 Creating 'create-exe.py' script to use only .pyc files for win exe.
+Feb/18: r0.9776 Fixed Dynamic imports for InfoDocClasses. Working for AGENCOMEX.
+Feb/15: r0.9775 Dynamic imports for InfoDocClasses. Working for AGENCOMEX.
+Jan/28: r0.9773 Improving checking warnings of values before transmit.
+Jan/25: r0.9772 Fixing AGCX. Fixing checking-coloring american format
+Jan/22: r0.9771 New installer (cloud checking). New GUI Settings (Panel, Empresa, Dialog)
+Jan/21: r0.9770 New GUI Settings (Panel, Empresa, Dialog)
+Jan/12: r0.9760 New command "init_running_dir"
+Jan/10: r0.9750 Working with ALDIA::XXXX branchs, not deployed. Modified GUI, EcuInfo
+Dic/26: r0.9745 Creating log feedback with google cloud sheets
+Dic/20: r0.9744 Added web access to LGTNS
+Dic/20: r0.9743 Quantities only checked if american format.
+Dic/20: r0.9742 Fixed select cartaporte blue image.
+Dic/19: r0.9741 SSH: Test auto-update.
+Dic/19: r0.9740 BOT: Changed clear to locate on AbrirCerrar button.
+Dic/19: r0.9731 INFO: Fixed BZ vehiculo. MRN with "CEC" text.
+Dic/18: r0.9730 BOT: Fixed image search.
+Dic/18: r0.9721 Added "getEcuapassFloat". Tunnings for AGCX. Fixing "ImageNotFound".
+Dic/17: r0.9720 Working for AGENCOMEX. Improved new empresa. 
+Dic/16: r0.9711 GUI:Added ProgressDialog
+Dic/16: r0.971  GUI:Actived update settings.

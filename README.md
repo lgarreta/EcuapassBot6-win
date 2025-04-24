@@ -1,41 +1,35 @@
-# EcuapassBot6: 
-Extracción y digitación automática de documentos al sistema ECUAPASS.
-jGUI calls pyCommander communicating with parameters and string responses.
+# EcuapassBot5: 
+Extracción y digitación automática de docuentos al ECUAPASS.
+Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
 ## LOG
+Abr/24: r0.9825: Patch015: Modifications for TRSCMI. GUI:Added openPdfFile
+
+Abr/23: r0.9824: Patch015: Minor printException fixes. fillSubject::TipoID to CPI Info.
 Abr/22: r0.9823: Fixed MCI:mouseController. Added py.FAILSAFE=false
-
-Abr/22: r0.9812: Testing mouse restricted
-Abr/15: r0.9811: Patch009: Bot6: Fixed last improvements: Pesos, Chasis, Certificados. GUI: restricted
-Abr/14: Patch 007: Added TRANSCOMERINTER. Improved: PdfDyn, Infos (MCI,PCI), bots (Agregar CPI, Precintos)
-Abr/06: r0.978: Patch 006: Added exceptions to cloud
-Abr/04: r0.977: GUI: Rewrite settings for LGT
-Abr/04: r0.976: Patch005: Fixed splitting token to |
-
-Abr/04: r0.975: Patch004: Fixed win spaced names. Changes split token to ::"
-Abr/01: r0.974: Patch03: GUI:Added CITRAPCAR, CMM:Added CITRAPCAR: getDate, getSubjectId, getBultosInfo
-Mar/29: r0.9788 Creating Testing ebot for Maluza.
-Mar/28: r0.9787 patch_002: getFloatValue for ALDIA, TSP.
-Mar/27: r0.9786 New .bat for patch: Only one last patch file
-Mar/26: r0.9785 Testing new git update bats
-Mar/26: r0.9784 Pathcing temporal fix: Always patching.
-Mar/20: r0.9783 Patch 001: Empresa in BotXXX. Improved CPI 'Gastos'. Fixed empty MCI 'aduana'. Log MCI Transportista.  
-
-Mar/19: r0.9782 Testing Patches.
-Mar/12: r0.9781 Added more MenuIzquierdo images
-Mar/11: r0.9780 Reduced Image detection to 70% Only for MenuIzquierdo
-Mar/11: r0.9779 Reduced Image detection to 70%.
-Feb/26: r0.9778 Fixed LGTRNAS::MRF from "22_Observaciones".
-Feb/20: r0.9777 Tested on Windows Dynamic imports for InfoDocClasses. Working for AGENCOMEX.
+Abr/22: r0.984  Patch 013: New version with Restricted Mouse
+Abr/21: r0.983  Added confine mouse. Not tested for all clients.
+Abr/16: r0.982  Working TRCI. Testing mouse restricted.
+Abr/12: r0.981  Second version including TRANSCOMERINTER. Tested CMM, BOT.
+Abr/11: r0.980  First version including TRANSCOMERINTER. Not tested in all companies
+Abr/10: r0.9784 Adapting scraping for dynamic multicells as in TRANSCOMERINTER mercancia
+Abr/09: r0.9783 Configuring EBot for TRANSCOMERINTER: CMM: Testing PDF Formats
+Abr/01: r0.9782 Added CITRAPCAR: SubjectId,
+Mar/28: r0.9781 Patch 001: 'getFloatValue' for PCI::Gastos and Unidades
+Mar/20: r0.9780 Patch 001: With previous changes.
+Feb/19: r0.9779 ALL: Fixed empty 'aduana' in MCI (ALL). ALL: Log Transportista info in MCI.  
+                ALL: Improved CPI's 'Gastos' totalizeCheckGastos. BZ: Fill Chasis (RM) in MCI.
+Feb/24: r0.9778 EcuapassBot MenuIzquierdo. New 'getInfoAduana' for all. New winexe for .pycs.
+Feb/22: r0.9777 Creating 'create-exe.py' script to use only .pyc files for win exe.
 Feb/18: r0.9776 Fixed Dynamic imports for InfoDocClasses. Working for AGENCOMEX.
-Jan/23: r0.9773 Fixed "checkQuantity".
-Jan/23: r0.9773 Checks Version 7.0
-Jan/22: r0.9772 Fixed ALDIA connector "::"
-Jan/22: r0.9771 New installer (cloud checkin). New GUI Settings (Panel, Empresa, Dialog)
-Jan/12: r0.9751 GUI: Modified DocInput. Working with ALDIA::XXXX branchs. Improved EcuInfo, EcuData.
-Jan/02: r0.9747 Logs with google sheets. New EcuCloud class instead EcuFeedback.
-Dic/23: r0.9746 Fixed SP Java docNumber extraction.
-Dic/23: r0.9745 Added web access to RDFRNT PERU
+Feb/15: r0.9775 Dynamic imports for InfoDocClasses. Working for AGENCOMEX.
+Jan/28: r0.9773 Improving checking warnings of values before transmit.
+Jan/25: r0.9772 Fixing AGCX. Fixing checking-coloring american format
+Jan/22: r0.9771 New installer (cloud checking). New GUI Settings (Panel, Empresa, Dialog)
+Jan/21: r0.9770 New GUI Settings (Panel, Empresa, Dialog)
+Jan/12: r0.9760 New command "init_running_dir"
+Jan/10: r0.9750 Working with ALDIA::XXXX branchs, not deployed. Modified GUI, EcuInfo
+Dic/26: r0.9745 Creating log feedback with google cloud sheets
 Dic/20: r0.9744 Added web access to LGTNS
 Dic/20: r0.9743 Quantities only checked if american format.
 Dic/20: r0.9742 Fixed select cartaporte blue image.
@@ -47,26 +41,3 @@ Dic/18: r0.9721 Added "getEcuapassFloat". Tunnings for AGCX. Fixing "ImageNotFou
 Dic/17: r0.9720 Working for AGENCOMEX. Improved new empresa. 
 Dic/16: r0.9711 GUI:Added ProgressDialog
 Dic/16: r0.971  GUI:Actived update settings.
-Dic/16: r0.970  Working SP,AD,BZ,RF. Improved classes with inheritance. Messages. Web access (codebin, AD).
-Dic/14: r0.968  Adapted for SP: dynamic PDF coords. Added token. Starting web version.
-Dic/10: r0.966  Fixed Icoterm ciudad (multiSources)
-Dic/10: r0.965  Fixed values (pesos, costos): Left as written, no AmericanFormat applied.
-Dic/07: r0.964  Fixed server and GUI large paths
-Dic/07: r0.963  MCI:Updated Docs:coordinates
-Dic/07: r0.962  MCI:Fixed always CRU. Fixed Costos positions.
-Dic/05: r0.961  Fixed ImageNotFoundException. Removed CPI-Image-FindButton
-Dic/05: r0.961  MCI: Click TipoCarga, Containers, Precintos.
-Dic/05: r0.961  DOCS: Unified MCI, CPI, DTI resources in data_ecuapass
-Dic/05: r0.961  GUI: Updated for ALDIA, ALCOMEXCARGO, BYZA, and LOGITRANS
-Dic/05: r0.960  GUI: New PythonWorker and PythonManager instead Server
-Nov/06: r0.920: BOT5: Testing ALDIA cartaporte
-Jun/28: r0.911: BOT4: Bot controller: start and stop
-Jun/13: r0.910: Full Test: docs and bot. Added return messages for response handlin. Fixed printx.
-Jun/12: r0.908: controller.out withing a invokeLater
-Jun/11: r0.907: HandleResponse run from a InvokeLater.
-Jun/11: r0.906: Fixed errors. Threads. CodebinBot validations and exceptions.
-Jun/06: r0.905: Server messages to GUI. Ecudoc Exceptions 
-Jun/04: r0.904: Testing processes vs threads, forced exit, own thread for CodebinBot.
-May/29: r0.903: Redesigned with multiprocessing for windows and forced exit.
-
-
