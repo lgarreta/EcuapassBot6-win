@@ -1,1 +1,1 @@
-Abr/22: r0.9823: Fixed MCI:mouseController. Added py.FAILSAFE=false
+Abr/26: r0.9828: Fixed TRNCMI's new coordinates (CPI). Improving Exception handling

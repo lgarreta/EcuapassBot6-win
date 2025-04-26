@@ -3,8 +3,13 @@ Extracción y digitación automática de docuentos al ECUAPASS.
 Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
 ## LOG
-Abr/24: r0.9825: Patch015: Modifications for TRSCMI. GUI:Added openPdfFile
+Abr/26: r0.9830: Patch016: Improved message/exceptions createDOC
+Abr/26: r0.9829: Patch016: Fixed printException ()
+Abr/26: r0.9828: Patch016: Fixed TRNCMI new coordinates (CPI). Improving Exception handling
 
+Abr/25: r0.9827: Fixing wintest repo 
+Abr/25: r0.9826: GUI:Removed 'Start' button when bot starts.
+Abr/24: r0.9825: Patch015: Modifications for TRSCMI. GUI:Added openPdfFile
 Abr/23: r0.9824: Patch015: Minor printException fixes. fillSubject::TipoID to CPI Info.
 Abr/22: r0.9823: Fixed MCI:mouseController. Added py.FAILSAFE=false
 Abr/22: r0.984  Patch 013: New version with Restricted Mouse
