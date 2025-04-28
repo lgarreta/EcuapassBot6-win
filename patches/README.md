@@ -3,8 +3,10 @@ Extracción y digitación automática de docuentos al ECUAPASS.
 Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
 ## LOG
-Abr/28: r0.9831: Testing Patch017: Handle two CPIs for TRANSCMI
+Abr/28: r0.9833: Testing Patch018: Sending PDF in log for TRANSCMI
 
+Abr/28: r0.9832: Deployed Patch017: Handle two CPIs for TRANSCMI
+Abr/28: r0.9831: Testing Patch017: Handle two CPIs for TRANSCMI
 Abr/26: r0.9830: Patch016: Improved message/exceptions createDOC
 Abr/26: r0.9829: Patch016: Fixed printException ()
 Abr/26: r0.9828: Patch016: Fixed TRNCMI new coordinates (CPI). Improving Exception handling
