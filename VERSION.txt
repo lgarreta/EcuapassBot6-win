@@ -1,1 +1,2 @@
-Abr/28: r0.9833: Testing Patch017: Send PDF for TRANSCMI
+Abr/30: r0.9835: Fixed PDF log. ALDIA: NIT,OTROS. AGENCMX: embalaje, aduanas. 
+
