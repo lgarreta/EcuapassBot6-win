@@ -44,19 +44,18 @@ if not defined PATCH_VERSION (
 
 :: Check if already applied
 findstr /C:"%PATCH_VERSION%" "%LOG_FILE%" >nul && (
-    echo +++ Patch %PATCH_VERSION% already applied. Skipping.
+    echo --- Ultimo parche aplicado: %PATCH_VERSION%.
     goto end
 )
 
-echo +++ Applying patch %PATCH_FILE%...
+echo +++ Aplicando parche %PATCH_FILE%...
 xdelta3.exe -f -d -s "%ORIGINAL_FILE%" "%PATCH_FILE%" "%NEW_FILE%"
 
 if not exist "%NEW_FILE%" (
-    echo !!! ERROR: Patch failed--xdelta3 error--Aborting.
+    echo !!! ERROR: Parche ha fallado--xdelta3 error--Aborting.
     goto end
 )
 
-echo +++ Update executable
 del "%CURRENT_FILE%" && (
     move "%NEW_FILE%" "%CURRENT_FILE%" >nul || (
         echo !!! ERROR: Failed to replace EXE. Restore from backup if needed.
@@ -68,6 +67,6 @@ del "%CURRENT_FILE%" && (
 echo %PATCH_VERSION% > temp.log
 type "%LOG_FILE%" >> temp.log
 move /y temp.log "%LOG_FILE%" >nul
-echo +++ Successfully applied patch %PATCH_VERSION%.
+echo +++ Parche %PATCH_VERSION% aplicado exitosamente.
 
 :end

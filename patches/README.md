@@ -3,8 +3,11 @@ Extracción y digitación automática de docuentos al ECUAPASS.
 Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
 ## LOG
-Abr/30: r0.9835: Fixed PDF log. ALDIA: NIT,OTROS. AGENCMX: embalaje, aduanas. 
+May/02: r0.9837: Patch20: Fixed MCI spanish names (Ñ). Simplified .bat files
 
+May/01: r0.9836: Testing Patch20: Fixed MCI spanish names (Ñ).
+
+Abr/30: r0.9835: Patch19: Fixed PDF log. ALDIA: NIT,OTROS. AGENCMX: embalaje, aduanas. 
 Abr/29: r0.9834: Testing NIT in ALDIA
 Abr/28: r0.9833: Deploying Patch018: Sending PDF in log for TRANSCMI
 

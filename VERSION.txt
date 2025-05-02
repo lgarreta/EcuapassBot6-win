@@ -1,2 +1,3 @@
-Abr/30: r0.9835: Fixed PDF log. ALDIA: NIT,OTROS. AGENCMX: embalaje, aduanas. 
+
+May/02: r0.9837: Patch20: Fixed MCI spanish names (Ñ). Simplified .bat files
 
