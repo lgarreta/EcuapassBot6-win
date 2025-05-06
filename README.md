@@ -3,8 +3,10 @@ Extracción y digitación automática de docuentos al ECUAPASS.
 Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
 ## LOG
-May/02: r0.9837: Patch20: Fixed MCI spanish names (Ñ). Simplified .bat files
+May/06: r0.9839: Patch21: Fixing INTRCMI MCI::Contenedores, Precintos
 
+May/06: r0.9838: Testing Patch21: Fixing INTRCMI MCI::Contenedores, Precintos
+May/02: r0.9837: Patch20: Fixed MCI spanish names (Ñ). Simplified .bat files
 May/01: r0.9836: Testing Patch20: Fixed MCI spanish names (Ñ).
 
 Abr/30: r0.9835: Patch19: Fixed PDF log. ALDIA: NIT,OTROS. AGENCMX: embalaje, aduanas. 

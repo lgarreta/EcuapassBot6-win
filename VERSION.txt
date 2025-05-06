@@ -1,2 +1,1 @@
-May/02: r0.9837: Patch20: Fixed MCI spanish names (Ñ). Simplified .bat files
-
+May/06: r0.9839: Patch21: Fixing INTRCMI MCI::Contenedores, Precintos
