@@ -1,1 +1,1 @@
-May/06: r0.9839: Patch21: Fixing INTRCMI MCI::Contenedores, Precintos
+May/06: r0.9842: Patch22: New Win GUI. Fixing TRANSCMI Contenedores: improved isValidValue 

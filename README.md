@@ -3,8 +3,11 @@ Extracción y digitación automática de docuentos al ECUAPASS.
 Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
 ## LOG
-May/06: r0.9839: Patch21: Fixing INTRCMI MCI::Contenedores, Precintos
+May/06: r0.9842: Patch22: New Win GUI. Fixing TRANSCMI Contenedores: improved isValidValue 
 
+May/06: r0.9841: Testing Patch22: Fixing TRANSCMI Contenedores: improved isValidValue 
+May/06: r0.9840: New GUI: Win Look and Feel, ColorButton
+May/06: r0.9839: Patch21: Fixing INTRCMI MCI::Contenedores, Precintos
 May/06: r0.9838: Testing Patch21: Fixing INTRCMI MCI::Contenedores, Precintos
 May/02: r0.9837: Patch20: Fixed MCI spanish names (Ñ). Simplified .bat files
 May/01: r0.9836: Testing Patch20: Fixed MCI spanish names (Ñ).
