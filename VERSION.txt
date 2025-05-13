@@ -1,1 +1,1 @@
-May/06: r0.9842: Patch22: New Win GUI. Fixing TRANSCMI Contenedores: improved isValidValue 
+May/12: r0.9843: Improved bat starting files: javaw with hidden CMD

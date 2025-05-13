@@ -24,4 +24,4 @@ call patches\patch-update-exe-win.bat
 echo ========================================================
 echo +++ Ejecutando EcuapassBot...
 echo ========================================================
-EcuapassBotGUI.exe
+start bin\jre-1.8\bin\javaw -jar "bin\EcuapassBotGUI.jar"

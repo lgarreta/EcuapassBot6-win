@@ -3,6 +3,8 @@ Extracción y digitación automática de docuentos al ECUAPASS.
 Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
 ## LOG
+May/12: r0.9843: Improved bat starting files: javaw with hidden CMD
+
 May/06: r0.9842: Patch22: New Win GUI. Fixing TRANSCMI Contenedores: improved isValidValue 
 
 May/06: r0.9841: Testing Patch22: Fixing TRANSCMI Contenedores: improved isValidValue 
