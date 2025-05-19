@@ -3,10 +3,11 @@ Extracción y digitación automática de docuentos al ECUAPASS.
 Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
 ## LOG
+May/16: r0.9846: Fixed coords CPI::Pais for TRANSCMI
+
+May/16: r0.9845: Cloning bot dev into klnx
 May/12: r0.9844: Fixing jar-exe-bats
-
 May/12: r0.9843: Improved bat starting files: javaw with hidden CMD
-
 May/06: r0.9842: Patch22: New Win GUI. Fixing TRANSCMI Contenedores: improved isValidValue 
 
 May/06: r0.9841: Testing Patch22: Fixing TRANSCMI Contenedores: improved isValidValue 
