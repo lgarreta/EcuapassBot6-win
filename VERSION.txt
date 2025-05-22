@@ -1,1 +1,1 @@
-May/16: r0.9846: Fixed coords CPI::Pais for TRANSCMI
+May/21: r0.9847: Added SingularUpper for 'embalaje'.

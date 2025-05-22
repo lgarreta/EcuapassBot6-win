@@ -3,6 +3,8 @@ Extracción y digitación automática de docuentos al ECUAPASS.
 Esta versión trabaja tanto extrayendo de la Web como desde un Pdf (ALDIA)
 
 ## LOG
+May/21: r0.9847: Added SingularUpper for 'embalaje'.
+
 May/16: r0.9846: Fixed coords CPI::Pais for TRANSCMI
 
 May/16: r0.9845: Cloning bot dev into klnx
